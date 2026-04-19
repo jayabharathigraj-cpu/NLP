@@ -1,0 +1,1043 @@
+Date,Time,Name,Chat,scores,positive,negative,compound,neutral,com_score,datetime,is_flirt
+29/04/25, 11:15 , Dineshkumar, What help do you need,"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.4019}",0.403,0.0,0.4019,0.597,positive,2025-04-29 11:15:00,False
+29/04/25, 12:14 , Jayabharathi, One kiss,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.737,0.0,0.4215,0.263,positive,2025-04-29 12:14:00,True
+29/04/25, 12:17 , Jayabharathi, https://www.instagram.com/reel/Cb2VhXDPtaW/?igsh=NmM0c2c2ZjBsaXg4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 12:17:00,False
+29/04/25, 12:25 , Jayabharathi, Like this,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.714,0.0,0.3612,0.286,positive,2025-04-29 12:25:00,False
+29/04/25, 13:37 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 13:37:00,False
+29/04/25, 13:37 , Dineshkumar, Idhu madhri ok va,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.296}",0.423,0.0,0.296,0.577,positive,2025-04-29 13:37:00,False
+29/04/25, 13:43 , Dineshkumar, Check this out,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 13:43:00,False
+29/04/25, 13:52 , Jayabharathi, Baby na already neraiya search Pani final ah ithu choose paniruken,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 13:52:00,True
+29/04/25, 13:52 , Jayabharathi, Ithuve enaku set aagum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 13:52:00,False
+29/04/25, 14:49 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 14:49:00,False
+29/04/25, 14:50 , Jayabharathi, Innaiki 2 kandipa order potturunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 14:50:00,False
+29/04/25, 22:45 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 22:45:00,False
+29/04/25, 22:45 , Jayabharathi, Kaadai pepper fry,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-29 22:45:00,False
+30/04/25, 08:18 , Jayabharathi, Otp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 08:18:00,False
+30/04/25, 08:19 , Dineshkumar, 603107,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 08:19:00,False
+30/04/25, 08:21 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 08:21:00,False
+30/04/25, 11:35 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 11:35:00,False
+30/04/25, 11:35 , Dineshkumar, Amount send pannu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 11:35:00,False
+30/04/25, 11:35 , Dineshkumar, Be serious,"{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.0772}",0.0,0.565,-0.0772,0.435,negative,2025-04-30 11:35:00,False
+30/04/25, 11:36 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 11:36:00,False
+30/04/25, 11:36 , Jayabharathi, Shit,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.5574}",0.0,1.0,-0.5574,0.0,negative,2025-04-30 11:36:00,False
+30/04/25, 11:36 , Jayabharathi, Shut,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 11:36:00,False
+30/04/25, 11:38 , Jayabharathi, Ungaluku dhan ena pakkanum eh thonalaiye,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-30 11:38:00,False
+30/04/25, 14:43 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-30 14:43:00,False
+30/04/25, 21:24 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-30 21:24:00,False
+30/04/25, 21:27 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-30 21:27:00,False
+30/04/25, 21:27 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-30 21:27:00,False
+30/04/25, 21:27 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-30 21:27:00,False
+30/04/25, 21:27 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-30 21:27:00,False
+30/04/25, 21:35 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-30 21:35:00,False
+01/05/25, 09:13 , Jayabharathi, https://youtu.be/RIVPiy3fk-8?si=Kf5jrtkjEncXoJbW,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-05 09:13:00,False
+01/05/25, 20:46 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-01-05 20:46:00,False
+01/05/25, 21:51 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-01-05 21:51:00,False
+01/05/25, 22:00 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-01-05 22:00:00,False
+01/05/25, 22:04 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-05 22:04:00,False
+01/05/25, 22:09 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-01-05 22:09:00,False
+02/05/25, 09:29 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-02-05 09:29:00,False
+02/05/25, 09:29 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-02-05 09:29:00,False
+02/05/25, 14:04 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-02-05 14:04:00,False
+02/05/25, 21:41 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-02-05 21:41:00,False
+02/05/25, 21:46 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-02-05 21:46:00,False
+03/05/25, 14:14 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-03-05 14:14:00,False
+03/05/25, 14:14 , Jayabharathi, Meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 14:14:00,False
+03/05/25, 14:14 , Dineshkumar, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2025-03-05 14:14:00,False
+03/05/25, 14:15 , Jayabharathi, 👍🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 14:15:00,False
+03/05/25, 21:49 , Dineshkumar, Sorry,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0772}",0.0,1.0,-0.0772,0.0,negative,2025-03-05 21:49:00,False
+03/05/25, 21:57 , Jayabharathi, Unala enaku epome mental ah help pannave mudiyathu,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}",0.278,0.0,0.4019,0.722,positive,2025-03-05 21:57:00,False
+03/05/25, 21:58 , Dineshkumar, I'm in presure,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 21:58:00,False
+03/05/25, 21:58 , Jayabharathi, Pesama ena kalutha aruthu saavadichuru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 21:58:00,False
+03/05/25, 21:59 , Dineshkumar, I'm nervous situation,"{'neg': 0.512, 'neu': 0.488, 'pos': 0.0, 'compound': -0.2732}",0.0,0.512,-0.2732,0.488,negative,2025-03-05 21:59:00,False
+03/05/25, 21:59 , Dineshkumar, So only,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 21:59:00,False
+03/05/25, 21:59 , Dineshkumar, I hope u understand,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}",0.744,0.0,0.4404,0.256,positive,2025-03-05 21:59:00,False
+03/05/25, 21:59 , Dineshkumar, 🥹🥹🥹,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 21:59:00,False
+03/05/25, 22:11 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 22:11:00,False
+03/05/25, 22:12 , Dineshkumar, Yar munnadiyum apdi pesala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 22:12:00,False
+03/05/25, 22:12 , Dineshkumar, Thaniya tha irundhen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 22:12:00,False
+03/05/25, 22:12 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-03-05 22:12:00,False
+03/05/25, 22:12 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-03-05 22:12:00,False
+03/05/25, 22:13 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-03-05 22:13:00,False
+03/05/25, 22:13 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-03-05 22:13:00,False
+03/05/25, 22:52 , Dineshkumar, Hey enna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 22:52:00,False
+03/05/25, 23:56 , Dineshkumar, Baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-05 23:56:00,True
+04/05/25, 09:23 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-05 09:23:00,False
+04/05/25, 15:00 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-05 15:00:00,False
+04/05/25, 15:02 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-04-05 15:02:00,False
+06/05/25, 21:32 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-06-05 21:32:00,False
+07/05/25, 18:14 , Dineshkumar, https://x.com/KHByte/status/1920008962516385954?t=EfhVGMZkNQUaCDoQGLNw2w&s=08,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-05 18:14:00,False
+07/05/25, 21:57 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-05 21:57:00,False
+07/05/25, 22:00 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-05 22:00:00,False
+07/05/25, 22:00 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-05 22:00:00,False
+08/05/25, 08:12 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-08-05 08:12:00,False
+08/05/25, 08:13 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-08-05 08:13:00,False
+08/05/25, 08:13 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-08-05 08:13:00,False
+08/05/25, 10:10 , Dineshkumar, U there,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:10:00,False
+08/05/25, 10:10 , Dineshkumar, Payment pannanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:10:00,False
+08/05/25, 10:10 , Jayabharathi, in meeting text me,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:10:00,False
+08/05/25, 10:11 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:11:00,False
+08/05/25, 10:11 , Jayabharathi, how much,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:11:00,False
+08/05/25, 10:12 , Dineshkumar, Send 18000 to this number,"{'neg': 0.0, 'neu': 0.744, 'pos': 0.256, 'compound': 0.0964}",0.256,0.0,0.0964,0.744,positive,2025-08-05 10:12:00,False
+08/05/25, 10:12 , Jayabharathi, from union,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:12:00,False
+08/05/25, 10:12 , Dineshkumar, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",1.0,0.0,0.4019,0.0,positive,2025-08-05 10:12:00,False
+08/05/25, 10:12 , Dineshkumar, Share screenshot also,"{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}",0.524,0.0,0.296,0.476,positive,2025-08-05 10:12:00,True
+08/05/25, 10:13 , Jayabharathi, Harshika?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:13:00,False
+08/05/25, 10:13 , Dineshkumar, Enna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:13:00,False
+08/05/25, 10:13 , Dineshkumar, Name ah,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:13:00,False
+08/05/25, 10:13 , Dineshkumar, Wait,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:13:00,False
+08/05/25, 10:13 , Dineshkumar, Na ketu conform panren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:13:00,False
+08/05/25, 10:13 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-08-05 10:13:00,False
+08/05/25, 10:14 , Jayabharathi, conform it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:14:00,False
+08/05/25, 10:14 , Dineshkumar, Gpay name ah?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:14:00,False
+08/05/25, 10:14 , Jayabharathi, yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",1.0,0.0,0.4019,0.0,positive,2025-08-05 10:14:00,False
+08/05/25, 10:14 , Dineshkumar, Share screenshot,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2025-08-05 10:14:00,True
+08/05/25, 10:14 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:14:00,False
+08/05/25, 10:15 , Jayabharathi, ss is not allowed in gpay,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:15:00,False
+08/05/25, 10:18 , Dineshkumar, Baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:18:00,True
+08/05/25, 10:18 , Dineshkumar, Proceed payment,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:18:00,False
+08/05/25, 10:18 , Jayabharathi, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2025-08-05 10:18:00,False
+08/05/25, 10:18 , Dineshkumar, Love u baby 😘💋😘,"{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}",0.677,0.0,0.6369,0.323,positive,2025-08-05 10:18:00,True
+08/05/25, 10:19 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:19:00,False
+08/05/25, 10:19 , Jayabharathi, Thanks,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",1.0,0.0,0.4404,0.0,positive,2025-08-05 10:19:00,False
+08/05/25, 10:19 , Dineshkumar, 😘😘😘😘😍😍😍🥰🥰🥰🥰🥰,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-05 10:19:00,True
+08/05/25, 12:35 , Dineshkumar, ⚡️Flipkart Fashion : Festive & Ethnic Deals Under ₹599,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.4588}",0.333,0.0,0.4588,0.667,positive,2025-08-05 12:35:00,False
+09/05/25, 22:57 , Jayabharathi, In meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-05 22:57:00,False
+09/05/25, 22:57 , Jayabharathi, 5 mins,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-05 22:57:00,False
+10/05/25, 21:29 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-10-05 21:29:00,False
+10/05/25, 21:30 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-10-05 21:30:00,False
+11/05/25, 13:25 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-11-05 13:25:00,False
+11/05/25, 20:09 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-11-05 20:09:00,False
+13/05/25, 06:55 , Jayabharathi, Hi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-13 06:55:00,False
+13/05/25, 06:55 , Jayabharathi, Enaku thonga varala na thongave ila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-13 06:55:00,False
+13/05/25, 06:56 , Jayabharathi, Nenga epo varinga nu iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-13 06:56:00,False
+14/05/25, 19:32 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-14 19:32:00,False
+14/05/25, 19:32 , Dineshkumar, Enna panra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-14 19:32:00,False
+14/05/25, 19:52 , Dineshkumar, Enna di panra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-14 19:52:00,False
+14/05/25, 19:52 , Dineshkumar, Call attend panna matra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-14 19:52:00,False
+15/05/25, 13:55 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-15 13:55:00,False
+16/05/25, 17:11 , Dineshkumar, Sorry is not enough for what I had done,"{'neg': 0.157, 'neu': 0.843, 'pos': 0.0, 'compound': -0.0772}",0.0,0.157,-0.0772,0.843,negative,2025-05-16 17:11:00,False
+16/05/25, 17:15 , Dineshkumar, I have no words to say,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}",0.0,0.355,-0.296,0.645,negative,2025-05-16 17:15:00,False
+17/05/25, 08:06 , Dineshkumar, I feel ashamed of myself,"{'neg': 0.508, 'neu': 0.492, 'pos': 0.0, 'compound': -0.4767}",0.0,0.508,-0.4767,0.492,negative,2025-05-17 08:06:00,False
+17/05/25, 18:05 , Jayabharathi, Show heater to her,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-17 18:05:00,False
+17/05/25, 18:06 , Jayabharathi, And give hot milk with half of the water. Mix with immunity powder,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-17 18:06:00,True
+17/05/25, 18:10 , Dineshkumar, Where it is?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-17 18:10:00,False
+17/05/25, 18:38 , Dineshkumar, Room key?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-17 18:38:00,False
+18/05/25, 09:12 , Dineshkumar, I'm mentally disturbed..I need ur support to recover,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}",0.278,0.0,0.4019,0.722,positive,2025-05-18 09:12:00,False
+18/05/25, 09:13 , Dineshkumar, Yen apdi react panrenu Enakku theriyala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 09:13:00,False
+18/05/25, 09:14 , Dineshkumar, I know it's wrong..but I'm not myself at the time,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 09:14:00,False
+18/05/25, 10:12 , Jayabharathi, Theriyalaiya car ah road la stop panni adi adi nu adikira. En edathula iruntha ne enna pannuva,"{'neg': 0.121, 'neu': 0.879, 'pos': 0.0, 'compound': -0.296}",0.0,0.121,-0.296,0.879,negative,2025-05-18 10:12:00,False
+18/05/25, 10:13 , Jayabharathi, Ava kila vilunthale ena dhan adipa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:13:00,False
+18/05/25, 10:13 , Jayabharathi, Ithu 1st time ila nu unake theriyum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:13:00,False
+18/05/25, 10:13 , Jayabharathi, You know my mental condition right,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:13:00,False
+18/05/25, 10:14 , Jayabharathi, I don't want to see your face anymore,"{'neg': 0.169, 'neu': 0.831, 'pos': 0.0, 'compound': -0.0572}",0.0,0.169,-0.0572,0.831,negative,2025-05-18 10:14:00,False
+18/05/25, 10:14 , Jayabharathi, Un voice kettale sullu nu eruthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:14:00,False
+18/05/25, 10:15 , Jayabharathi, Un kuda vaalave pudikala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:15:00,False
+18/05/25, 10:16 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:16:00,False
+18/05/25, 10:16 , Jayabharathi, Un kovathu naala innum enna enna elaka pora nu theril,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:16:00,False
+18/05/25, 10:16 , Jayabharathi, Therila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:16:00,False
+18/05/25, 10:17 , Jayabharathi, En situation la iruntha dhan ellathukum puriyum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:17:00,False
+18/05/25, 10:17 , Jayabharathi, Na inimel en life paathukiren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:17:00,False
+18/05/25, 10:17 , Jayabharathi, Ena vittutu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:17:00,False
+18/05/25, 10:44 , Dineshkumar, I know it's not fair to ask sorry,"{'neg': 0.395, 'neu': 0.605, 'pos': 0.0, 'compound': -0.3098}",0.0,0.395,-0.3098,0.605,negative,2025-05-18 10:44:00,False
+18/05/25, 10:45 , Dineshkumar, Na 1st enna sari pannikren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:45:00,False
+18/05/25, 10:50 , Dineshkumar, Hard to digest,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.1027}",0.0,0.412,-0.1027,0.588,negative,2025-05-18 10:50:00,False
+18/05/25, 10:54 , Dineshkumar, Ennoda pesa venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:54:00,False
+18/05/25, 10:54 , Dineshkumar, Enna vittu pogatha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 10:54:00,False
+18/05/25, 10:54 , Dineshkumar, Guilty la na sethuruven,"{'neg': 0.483, 'neu': 0.517, 'pos': 0.0, 'compound': -0.4215}",0.0,0.483,-0.4215,0.517,negative,2025-05-18 10:54:00,False
+18/05/25, 11:37 , Jayabharathi, Un kuda iruka matten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 11:37:00,False
+18/05/25, 11:38 , Jayabharathi, Inimel na antha thappa ah panna matten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-18 11:38:00,False
+19/05/25, 21:04 , Jayabharathi, \4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-19 21:04:00,False
+19/05/25, 21:07 , Dineshkumar, ?,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-05-19 21:07:00,False
+20/05/25, 07:58 , Dineshkumar, What about Tiruppur plan?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 07:58:00,False
+20/05/25, 09:19 , Jayabharathi, Incase vara mari iruntha today evening 4 ku bus Iruku athula vanthutu and 22 morning 7 ku oru bus Iruku athula Trichy vanthuruven. Surya compal Pani kupdanga adhan varen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 09:19:00,False
+20/05/25, 09:19 , Jayabharathi, Pickup drop onnu enaku venam,"{'neg': 0.344, 'neu': 0.656, 'pos': 0.0, 'compound': -0.2732}",0.0,0.344,-0.2732,0.656,negative,2025-05-20 09:19:00,False
+20/05/25, 09:32 , Jayabharathi, https://acrobat.adobe.com/id/urn:aaid:sc:AP:815e2579-d6ef-49e3-84ed-dce5f8274f54,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 09:32:00,False
+20/05/25, 09:33 , Jayabharathi, Next morning kelambiruven,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 09:33:00,False
+20/05/25, 09:33 , Jayabharathi, Anga vanthu pesurathellam venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 09:33:00,False
+20/05/25, 09:33 , Jayabharathi, Un kuda pesa pudikala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 09:33:00,False
+20/05/25, 17:06 , Dineshkumar, Then why are u frequently look and smiling,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.4588}",0.333,0.0,0.4588,0.667,positive,2025-05-20 17:06:00,False
+20/05/25, 17:06 , Dineshkumar, Pathu siricha thana???,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:06:00,False
+20/05/25, 17:19 , Jayabharathi, Hotel la dhane. Apo sowmiya akka oru topic pathi pesitu irunthom something like romance. Adhu naala dhan sirichite irunthen. But ne sonnila 2 days kalichu poi nane vituren nu apo ne pesuratha kettale avlo kovam vanthathu.,"{'neg': 0.0, 'neu': 0.891, 'pos': 0.109, 'compound': 0.4678}",0.109,0.0,0.4678,0.891,positive,2025-05-20 17:19:00,True
+20/05/25, 17:19 , Jayabharathi, Un kuda pesave irritate ah iruku,"{'neg': 0.359, 'neu': 0.641, 'pos': 0.0, 'compound': -0.4215}",0.0,0.359,-0.4215,0.641,negative,2025-05-20 17:19:00,False
+20/05/25, 17:21 , Dineshkumar, 3 times in room hotel and park,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:21:00,True
+20/05/25, 17:21 , Dineshkumar, I know what you want..but that incident tha unna thadukudhu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:21:00,False
+20/05/25, 17:22 , Jayabharathi, enaku therila aana atha nenga neyabagam vaichurutha sorry for that,"{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.0772}",0.0,0.126,-0.0772,0.874,negative,2025-05-20 17:22:00,False
+20/05/25, 17:22 , Jayabharathi, sirichathuku sorry,"{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.0772}",0.0,0.565,-0.0772,0.435,negative,2025-05-20 17:22:00,False
+20/05/25, 17:23 , Jayabharathi, enaku onnu venam . un mela ipo enaku oru feels um ila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:23:00,False
+20/05/25, 17:23 , Jayabharathi, ungala pathi yosika kuda thonala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:23:00,False
+20/05/25, 17:24 , Dineshkumar, I know u r always thinking about me,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:24:00,False
+20/05/25, 17:24 , Jayabharathi, na veetuku vanthapo eppaiyathu sirichen ah,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:24:00,False
+20/05/25, 17:24 , Jayabharathi, Promise ah ila,"{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.3182}",0.535,0.0,0.3182,0.465,positive,2025-05-20 17:24:00,False
+20/05/25, 17:25 , Dineshkumar, Innum one day irundha sirikka vachurupen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:25:00,False
+20/05/25, 17:25 , Jayabharathi, Entha thairiyathula ipdi pesura ivlo nadanthu aprm um,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:25:00,False
+20/05/25, 17:26 , Jayabharathi, Ithellam enaku eppome marakathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:26:00,False
+20/05/25, 17:26 , Dineshkumar, U are mine..antha thairiyam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:26:00,False
+20/05/25, 17:27 , Dineshkumar, Valkaila good and bad memories rendume irukum,"{'neg': 0.307, 'neu': 0.439, 'pos': 0.254, 'compound': -0.1531}",0.254,0.307,-0.1531,0.439,negative,2025-05-20 17:27:00,False
+20/05/25, 17:27 , Dineshkumar, Nanum markka maten.🥹,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:27:00,False
+20/05/25, 17:28 , Jayabharathi, Irritate ah iruku un moonji ah inimel pakkave kudathu nu thonuthu,"{'neg': 0.219, 'neu': 0.781, 'pos': 0.0, 'compound': -0.4215}",0.0,0.219,-0.4215,0.781,negative,2025-05-20 17:28:00,False
+20/05/25, 17:28 , Jayabharathi, Please vittutu,"{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}",0.697,0.0,0.3182,0.303,positive,2025-05-20 17:28:00,False
+20/05/25, 17:28 , Jayabharathi, Na ingaiye oru rent kuda veetu pathukiren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:28:00,False
+20/05/25, 17:28 , Jayabharathi, Serious ah un kuda vaalanum nu thonala,"{'neg': 0.178, 'neu': 0.822, 'pos': 0.0, 'compound': -0.0772}",0.0,0.178,-0.0772,0.822,negative,2025-05-20 17:28:00,False
+20/05/25, 17:29 , Dineshkumar, Ok.. just leave it,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.0516}",0.0,0.286,-0.0516,0.714,negative,2025-05-20 17:29:00,False
+20/05/25, 17:29 , Jayabharathi, Nenaichale asingama iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:29:00,False
+20/05/25, 17:30 , Jayabharathi, May be na sirichi iruntha na ellathaiyum maranthutu sirikiren nu ila.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:30:00,False
+20/05/25, 17:31 , Jayabharathi, Na sirichalum ne enaku venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:31:00,False
+20/05/25, 17:36 , Jayabharathi, na oru paithiyum epdi kova padanum kuda theriyathu but un kuda irukavo pesavo pudikala avlo dhan na,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:36:00,False
+20/05/25, 17:37 , Jayabharathi, marriage aprm romba asinga paduren. ella edathulaiyum yemanthu poren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:37:00,False
+20/05/25, 17:38 , Jayabharathi, romba adjust paniten. inimel enala mudiyala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:38:00,False
+20/05/25, 17:38 , Jayabharathi, enaku veruthuruchu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:38:00,False
+20/05/25, 17:41 , Jayabharathi, chinna vishiyathuku kuda ena asinga paduthurathu thitturathu pesura vartha ellame ithu aprm enaku venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:41:00,False
+20/05/25, 17:41 , Dineshkumar, Na unna puruinjukanum nu nenakira but ne enna puruinjikanumnu try kooda pannala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:41:00,False
+20/05/25, 17:42 , Jayabharathi, unala yaraiyume santhosama vaichuka mudiyathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:42:00,False
+20/05/25, 17:43 , Jayabharathi, enakaga enna maathiruka ithu varaikum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:43:00,False
+20/05/25, 17:43 , Dineshkumar, In this situation ellam negative ah tha therium..na unna compel pannala..,"{'neg': 0.27, 'neu': 0.73, 'pos': 0.0, 'compound': -0.5719}",0.0,0.27,-0.5719,0.73,negative,2025-05-20 17:43:00,False
+20/05/25, 17:44 , Jayabharathi, enaku  un mela oru trust ah varala,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.5106}",0.355,0.0,0.5106,0.645,positive,2025-05-20 17:44:00,False
+20/05/25, 17:44 , Jayabharathi, enna nu therila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:44:00,False
+20/05/25, 17:44 , Jayabharathi, incase inimel un kuda iruntha again ithu mari dhan nadathukum nu thonuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:44:00,False
+20/05/25, 17:47 , Jayabharathi, intha mari environment la hariksana valara kudathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:47:00,False
+20/05/25, 17:47 , Dineshkumar, Ok think wise and give some rest,"{'neg': 0.0, 'neu': 0.485, 'pos': 0.515, 'compound': 0.6486}",0.515,0.0,0.6486,0.485,positive,2025-05-20 17:47:00,False
+20/05/25, 17:47 , Dineshkumar, I'm here for you,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:47:00,False
+20/05/25, 17:48 , Jayabharathi, athuku 2 options dhan iruku onnu na vittutu thaniya vanthuranum illati ne maranum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:48:00,False
+20/05/25, 17:48 , Jayabharathi, ne maruva nu enaku konja kuda trust eh ila,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.5106}",0.292,0.0,0.5106,0.708,positive,2025-05-20 17:48:00,False
+20/05/25, 17:48 , Jayabharathi, na thaniya eh irunthukiren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:48:00,False
+20/05/25, 17:49 , Jayabharathi, enaku en vida hariksana env dhan mukkiyam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:49:00,False
+20/05/25, 17:49 , Jayabharathi, annaiki ava kai valichu alukala ne ena adichathu dhan alutha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:49:00,False
+20/05/25, 17:50 , Jayabharathi, athuve unaku theriyala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:50:00,False
+20/05/25, 17:50 , Jayabharathi, eppome enaku maraka mudiyatha vishiyatha dhan panra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:50:00,False
+20/05/25, 17:52 , Jayabharathi, marriage ku munnadi hair matter sollaile nu enaku innum oru side iruku . appaiyum ellathaiyum adjust panitu dhan poren.,"{'neg': 0.0, 'neu': 0.939, 'pos': 0.061, 'compound': 0.0258}",0.061,0.0,0.0258,0.939,positive,2025-05-20 17:52:00,False
+20/05/25, 17:52 , Jayabharathi, na romba disturb ah dhan iruken,"{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}",0.0,0.351,-0.4019,0.649,negative,2025-05-20 17:52:00,False
+20/05/25, 17:53 , Jayabharathi, ithuku mela ena solrathu nu therila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:53:00,False
+20/05/25, 17:55 , Dineshkumar, Ok..na en mela fault thana solren,"{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}",0.0,0.351,-0.4019,0.649,negative,2025-05-20 17:55:00,False
+20/05/25, 17:56 , Dineshkumar, Unakku oru problem mari I have some anger issues,"{'neg': 0.516, 'neu': 0.484, 'pos': 0.0, 'compound': -0.7506}",0.0,0.516,-0.7506,0.484,negative,2025-05-20 17:56:00,False
+20/05/25, 17:56 , Dineshkumar, I need some physical activities everyday,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:56:00,False
+20/05/25, 17:57 , Dineshkumar, Apo than na konjam relief aaga mudiyum,"{'neg': 0.0, 'neu': 0.659, 'pos': 0.341, 'compound': 0.4767}",0.341,0.0,0.4767,0.659,positive,2025-05-20 17:57:00,False
+20/05/25, 17:57 , Dineshkumar, Enaku BP irukku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:57:00,False
+20/05/25, 17:57 , Dineshkumar, Unkitta sollala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:57:00,False
+20/05/25, 17:59 , Dineshkumar, Na adhukku medication eduvum edukkala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 17:59:00,False
+20/05/25, 18:01 , Jayabharathi, enaku counselling kudutha doctor enna sonnanga. enaku oru prblm iruku nu therinji enna panna ithu varaikum,"{'neg': 0.148, 'neu': 0.852, 'pos': 0.0, 'compound': -0.3818}",0.0,0.148,-0.3818,0.852,negative,2025-05-20 18:01:00,False
+20/05/25, 18:02 , Dineshkumar, Unakku onnum illa nu sonnanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 18:02:00,False
+20/05/25, 18:02 , Dineshkumar, Normal frustration,"{'neg': 0.756, 'neu': 0.244, 'pos': 0.0, 'compound': -0.4767}",0.0,0.756,-0.4767,0.244,negative,2025-05-20 18:02:00,False
+20/05/25, 18:02 , Dineshkumar, That's all,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 18:02:00,False
+20/05/25, 18:02 , Dineshkumar, Ne yen problem mari hype panra,"{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}",0.0,0.351,-0.4019,0.649,negative,2025-05-20 18:02:00,False
+20/05/25, 18:03 , Jayabharathi, sari okay na panala enaku pudikala avlo dhan vitutu,"{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.2263}",0.192,0.0,0.2263,0.808,positive,2025-05-20 18:03:00,False
+20/05/25, 18:04 , Dineshkumar, Ok vituren,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2025-05-20 18:04:00,False
+20/05/25, 18:05 , Dineshkumar, Na iminel pesala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 18:05:00,False
+20/05/25, 18:06 , Dineshkumar, Na unna disturb pannala,"{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.4019}",0.0,0.474,-0.4019,0.526,negative,2025-05-20 18:06:00,False
+20/05/25, 19:48 , Dineshkumar, But make sure..u will be happy..,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 19:48:00,False
+20/05/25, 20:25 , Dineshkumar, Sorry to disturb,"{'neg': 0.8, 'neu': 0.2, 'pos': 0.0, 'compound': -0.4588}",0.0,0.8,-0.4588,0.2,negative,2025-05-20 20:25:00,False
+20/05/25, 20:25 , Dineshkumar, Union bank balance,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-20 20:25:00,False
+21/05/25, 12:23 , Dineshkumar, And transfer all the amount to my account,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-21 12:23:00,False
+21/05/25, 12:24 , Jayabharathi, account num,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-21 12:24:00,False
+21/05/25, 12:24 , Dineshkumar, Gpay,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-21 12:24:00,False
+21/05/25, 12:24 , Jayabharathi, number,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.0772}",1.0,0.0,0.0772,0.0,positive,2025-05-21 12:24:00,False
+21/05/25, 12:25 , Dineshkumar, Check gpay,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-21 12:25:00,False
+21/05/25, 12:28 , Jayabharathi, 120539,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-21 12:28:00,False
+22/05/25, 09:31 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-05-22 09:31:00,False
+22/05/25, 13:16 , Dineshkumar, I don't want to disturb u,"{'neg': 0.223, 'neu': 0.365, 'pos': 0.412, 'compound': 0.2584}",0.412,0.223,0.2584,0.365,positive,2025-05-22 13:16:00,False
+22/05/25, 13:16 , Dineshkumar, Please transfer the amount to my gpay,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}",0.277,0.0,0.3182,0.723,positive,2025-05-22 13:16:00,False
+22/05/25, 13:16 , Dineshkumar, 🙏🏼🙏🏼🙏🏼,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:16:00,False
+22/05/25, 13:17 , Jayabharathi, full amount ah send paniruren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:17:00,False
+22/05/25, 13:17 , Jayabharathi, total amt :120539,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:17:00,False
+22/05/25, 13:18 , Dineshkumar, 👍🏼,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:18:00,False
+22/05/25, 13:18 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:18:00,False
+22/05/25, 13:19 , Jayabharathi, today limit is over,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:19:00,False
+22/05/25, 13:19 , Jayabharathi, i will send it tomorrow morning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:19:00,False
+22/05/25, 13:25 , Dineshkumar, My earphones?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 13:25:00,False
+22/05/25, 23:18 , Dineshkumar, Where it is?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-22 23:18:00,False
+23/05/25, 17:18 , Dineshkumar, Transfer 15k to ur mom,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-23 17:18:00,False
+23/05/25, 17:18 , Dineshkumar, And send remaining amount to my account,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-23 17:18:00,False
+27/05/25, 05:44 , Dineshkumar, Wish you a many more happy returns of the day 🎉💕 my dear..,"{'neg': 0.0, 'neu': 0.599, 'pos': 0.401, 'compound': 0.7713}",0.401,0.0,0.7713,0.599,positive,2025-05-27 05:44:00,True
+27/05/25, 08:34 , Jayabharathi, Thanks,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",1.0,0.0,0.4404,0.0,positive,2025-05-27 08:34:00,False
+29/05/25, 08:24 , Jayabharathi, Nalaiki appointment podunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-29 08:24:00,False
+05/06/25, 21:03 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-05-06 21:03:00,False
+05/06/25, 21:03 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-05-06 21:03:00,False
+09/06/25, 13:47 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-06 13:47:00,False
+09/06/25, 13:48 , Dineshkumar, Pack the return,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-06 13:48:00,False
+10/06/25, 19:59 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-06 19:59:00,False
+11/06/25, 15:46 , Dineshkumar, To join the meeting on Google Meet click this link: ,"{'neg': 0.0, 'neu': 0.804, 'pos': 0.196, 'compound': 0.296}",0.196,0.0,0.296,0.804,positive,2025-11-06 15:46:00,False
+11/06/25, 15:46 , Dineshkumar, Today at 4:00 your appointment has been scheduled. You can use this link to join,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.296}",0.136,0.0,0.296,0.864,positive,2025-11-06 15:46:00,False
+13/06/25, 15:06 , Jayabharathi, https://vb-audio.com/Cable/index.htm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-13 15:06:00,False
+17/06/25, 23:40 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-17 23:40:00,False
+17/06/25, 23:42 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-17 23:42:00,False
+22/06/25, 19:41 , Jayabharathi, Help me decide on this product: ATTRO Carnival Super Cat Lunch Box 2 Layer Stainless Steel Lunch Box Comes with 1 Detachable Tray 1 Small Container & 1 Spoon Ideal for Kids BPA Free 1120ml+70ml- Blue ,"{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.9231}",0.33,0.0,0.9231,0.67,positive,2025-06-22 19:41:00,False
+23/06/25, 11:53 , Jayabharathi, https://youtube.com/shorts/vUCQoJ0wk9k?si=TRh0QbwXecXcHh-O,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-23 11:53:00,False
+23/06/25, 14:22 , Jayabharathi, https://youtube.com/shorts/siSfdIdTOXw?si=Ml6CtSVZOGy7SGN7,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-23 14:22:00,False
+24/06/25, 11:05 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-24 11:05:00,False
+24/06/25, 11:06 , Dineshkumar, Invoice generated for Rs. 904.Share DAC 2870 on delivery. Download eInvoice https://cx.indianoil.in/webcenter/portal/LPG/pages_h?cId=14437350768,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-24 11:06:00,False
+24/06/25, 11:06 , Dineshkumar, Ithan OTP,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-24 11:06:00,False
+24/06/25, 22:26 , Dineshkumar, https://youtu.be/Kkn_u1gK1kw?si=T1YejXBUapBWDo0k,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-24 22:26:00,False
+26/06/25, 14:18 , Dineshkumar, Baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-26 14:18:00,True
+26/06/25, 14:18 , Jayabharathi, solunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-26 14:18:00,False
+26/06/25, 14:18 , Dineshkumar, Water bottle lids tha theditu iruken,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-26 14:18:00,False
+26/06/25, 14:19 , Jayabharathi, ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2025-06-26 14:19:00,False
+26/06/25, 14:19 , Dineshkumar, Innum kelambala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-26 14:19:00,False
+26/06/25, 14:19 , Jayabharathi, ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2025-06-26 14:19:00,False
+26/06/25, 14:19 , Dineshkumar, Pesama new can vangiralam pola,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-26 14:19:00,False
+26/06/25, 14:19 , Dineshkumar, Engayum kedaikala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-26 14:19:00,False
+26/06/25, 14:19 , Jayabharathi, ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2025-06-26 14:19:00,False
+04/07/25, 17:42 , Jayabharathi, Otp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-07 17:42:00,False
+04/07/25, 17:43 , Dineshkumar, 094269,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-07 17:43:00,False
+05/07/25, 11:03 , Jayabharathi, Otp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-07 11:03:00,False
+05/07/25, 11:03 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-05-07 11:03:00,False
+05/07/25, 11:04 , Dineshkumar, 9754,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-07 11:04:00,False
+05/07/25, 11:05 , Jayabharathi, Okay poturunga,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.655,0.0,0.2263,0.345,positive,2025-05-07 11:05:00,False
+05/07/25, 17:17 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-05-07 17:17:00,False
+06/07/25, 21:36 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-06-07 21:36:00,False
+06/07/25, 21:37 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-06-07 21:37:00,False
+06/07/25, 21:39 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-07 21:39:00,False
+06/07/25, 21:40 , Dineshkumar, 😁😁😁😁,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-07 21:40:00,False
+06/07/25, 21:40 , Jayabharathi, Nalla iruka,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-07 21:40:00,False
+06/07/25, 21:40 , Jayabharathi, Nerula nalla iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-07 21:40:00,False
+06/07/25, 21:40 , Dineshkumar, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2025-06-07 21:40:00,False
+06/07/25, 21:40 , Dineshkumar, Nice,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4215}",1.0,0.0,0.4215,0.0,positive,2025-06-07 21:40:00,False
+06/07/25, 21:40 , Jayabharathi, Nice dhana,"{'neg': 0.0, 'neu': 0.263, 'pos': 0.737, 'compound': 0.4215}",0.737,0.0,0.4215,0.263,positive,2025-06-07 21:40:00,False
+06/07/25, 21:41 , Dineshkumar, 👍🏼👍🏼👍🏼,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-07 21:41:00,False
+06/07/25, 22:04 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-07 22:04:00,False
+06/07/25, 22:05 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-07 22:05:00,False
+07/07/25, 14:07 , Dineshkumar, https://play.google.com/store/apps/details?id=com.cris.utsmobile,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-07 14:07:00,False
+07/07/25, 20:17 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-07 20:17:00,False
+17/07/25, 13:40 , Jayabharathi, konjam sikarama vanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-17 13:40:00,False
+17/07/25, 13:41 , Jayabharathi, overflow aaguthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-17 13:41:00,False
+17/07/25, 16:43 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-17 16:43:00,False
+18/07/25, 00:09 , Jayabharathi, Reached,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.1027}",1.0,0.0,0.1027,0.0,positive,2025-07-18 00:09:00,False
+19/07/25, 10:31 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-19 10:31:00,False
+19/07/25, 10:33 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-19 10:33:00,False
+20/07/25, 11:29 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-20 11:29:00,False
+20/07/25, 19:07 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-20 19:07:00,False
+20/07/25, 19:07 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-20 19:07:00,False
+20/07/25, 19:08 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-20 19:08:00,False
+22/07/25, 09:16 , Dineshkumar, https://youtube.com/shorts/GTlMKZDNpOw?si=j1XV_4anFqzsVsQs,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-22 09:16:00,False
+22/07/25, 18:07 , Jayabharathi, https://www.instagram.com/reel/DLPeXxooR71/?igsh=NG1ud3Vvd3lwOThm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-22 18:07:00,False
+22/07/25, 18:07 , Jayabharathi, Ithu dinner ku okay ah?,"{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.2263}",0.322,0.0,0.2263,0.678,positive,2025-07-22 18:07:00,False
+22/07/25, 18:16 , Dineshkumar, Panner irukka?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-22 18:16:00,False
+22/07/25, 18:16 , Jayabharathi, edukanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-22 18:16:00,False
+22/07/25, 18:16 , Dineshkumar, Apo venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-22 18:16:00,False
+26/07/25, 22:22 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-26 22:22:00,False
+26/07/25, 22:23 , Dineshkumar, Enna aachu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-26 22:23:00,False
+26/07/25, 22:23 , Jayabharathi, Onnu agala baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-26 22:23:00,True
+26/07/25, 22:23 , Jayabharathi, Movie paathutu iruken,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-26 22:23:00,False
+26/07/25, 22:23 , Dineshkumar, Kk,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}",1.0,0.0,0.3612,0.0,positive,2025-07-26 22:23:00,False
+27/07/25, 18:11 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-27 18:11:00,False
+28/07/25, 11:21 , Jayabharathi, hi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-28 11:21:00,False
+01/08/25, 18:31 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-01-08 18:31:00,False
+01/08/25, 18:31 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-08 18:31:00,False
+01/08/25, 18:31 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-08 18:31:00,False
+01/08/25, 18:31 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-08 18:31:00,False
+01/08/25, 18:31 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-08 18:31:00,False
+01/08/25, 18:31 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-08 18:31:00,False
+01/08/25, 18:31 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-08 18:31:00,False
+02/08/25, 12:03 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-08 12:03:00,False
+02/08/25, 12:04 , Dineshkumar, Meeting ah?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-08 12:04:00,False
+02/08/25, 12:04 , Jayabharathi, yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",1.0,0.0,0.4019,0.0,positive,2025-02-08 12:04:00,False
+02/08/25, 12:04 , Dineshkumar, Ava enna panra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-08 12:04:00,False
+02/08/25, 21:45 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-08 21:45:00,False
+04/08/25, 13:04 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-08 13:04:00,False
+05/08/25, 13:25 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-08 13:25:00,False
+06/08/25, 10:04 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-08 10:04:00,False
+08/08/25, 08:53 , Dineshkumar, https://youtube.com/shorts/k95PFpIKbe0?si=Upcmk23G4s7--3po,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-08 08:53:00,False
+11/08/25, 13:55 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-08 13:55:00,False
+11/08/25, 23:23 , Jayabharathi, https://youtu.be/3d23usMZ2XA?si=BL1n6bHUq4OanDgU,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-08 23:23:00,False
+11/08/25, 23:41 , Jayabharathi, https://youtube.com/shorts/ZekxtbydRp0?si=G1qMa-yYh23ec9MD,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-08 23:41:00,False
+13/08/25, 12:03 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-13 12:03:00,False
+13/08/25, 20:24 , Dineshkumar, 4648,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-13 20:24:00,False
+14/08/25, 15:52 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-14 15:52:00,False
+14/08/25, 17:04 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-14 17:04:00,False
+14/08/25, 20:37 , Jayabharathi, Yarume vidala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-14 20:37:00,False
+14/08/25, 20:38 , Jayabharathi, Aprm bathroom pakkathula utkanthurukom,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-14 20:38:00,False
+14/08/25, 20:38 , Jayabharathi, Semma smell vera,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-14 20:38:00,False
+14/08/25, 20:38 , Jayabharathi, 😡😡😡,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-14 20:38:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:47 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:47:00,False
+17/08/25, 07:51 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:51:00,False
+17/08/25, 07:51 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 07:51:00,False
+17/08/25, 21:14 , Dineshkumar, Send live location,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-17 21:14:00,False
+18/08/25, 08:16 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-18 08:16:00,False
+18/08/25, 19:09 , Dineshkumar, 5400,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-18 19:09:00,False
+20/08/25, 11:13 , Dineshkumar, Invoice generated for Rs. 904.Share DAC 7849 on delivery. Download eInvoice https://cx.indianoil.in/webcenter/portal/LPG/pages_h?cId=14869529055,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-20 11:13:00,False
+20/08/25, 11:26 , Dineshkumar, Dear DINESHKUMAR V payment of 904 has been successfully received against your order 2-004956509685.Ref Num# 10004738748182,"{'neg': 0.0, 'neu': 0.691, 'pos': 0.309, 'compound': 0.7003}",0.309,0.0,0.7003,0.691,positive,2025-08-20 11:26:00,True
+24/08/25, 07:01 , Jayabharathi, Miss you,"{'neg': 0.615, 'neu': 0.385, 'pos': 0.0, 'compound': -0.1531}",0.0,0.615,-0.1531,0.385,negative,2025-08-24 07:01:00,True
+24/08/25, 07:01 , Jayabharathi, Epo varuvinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 07:01:00,False
+24/08/25, 12:30 , Jayabharathi, Na una miss panren nu solren,"{'neg': 0.242, 'neu': 0.758, 'pos': 0.0, 'compound': -0.1531}",0.0,0.242,-0.1531,0.758,negative,2025-08-24 12:30:00,False
+24/08/25, 12:30 , Jayabharathi, Yen vara matra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 12:30:00,False
+24/08/25, 12:30 , Jayabharathi, Chi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 12:30:00,False
+24/08/25, 12:30 , Jayabharathi, Tension aaguthu,"{'neg': 0.697, 'neu': 0.303, 'pos': 0.0, 'compound': -0.3182}",0.0,0.697,-0.3182,0.303,negative,2025-08-24 12:30:00,False
+24/08/25, 12:31 , Jayabharathi, Enaku theriyathu ipove ne varanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 12:31:00,False
+24/08/25, 12:31 , Jayabharathi, Illati nenga veetuku vara venam direct ah court ku vanthurunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 12:31:00,False
+24/08/25, 12:43 , Dineshkumar, On the way pattu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 12:43:00,False
+24/08/25, 12:55 , Jayabharathi, Enga court ka?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 12:55:00,False
+24/08/25, 12:56 , Dineshkumar, Today..Court leave,"{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.0516}",0.0,0.545,-0.0516,0.455,negative,2025-08-24 12:56:00,False
+24/08/25, 12:57 , Jayabharathi, 😅,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-08-24 12:57:00,False
+24/08/25, 12:57 , Jayabharathi, 🤣😂,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 12:57:00,False
+24/08/25, 13:00 , Dineshkumar, Love you.. sweet heart ❤️,"{'neg': 0.0, 'neu': 0.294, 'pos': 0.706, 'compound': 0.802}",0.706,0.0,0.802,0.294,positive,2025-08-24 13:00:00,True
+24/08/25, 13:00 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 13:00:00,False
+24/08/25, 13:21 , Jayabharathi, 😤🥰,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-24 13:21:00,False
+28/08/25, 06:52 , Dineshkumar, https://youtube.com/shorts/xBzV_QHb1Jc?si=u7yE2sND3-O1MsJg,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-28 06:52:00,False
+28/08/25, 09:17 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-28 09:17:00,False
+01/09/25, 20:01 , Dineshkumar, Send otp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-09 20:01:00,False
+01/09/25, 20:19 , Jayabharathi, 118993,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-09 20:19:00,False
+03/09/25, 11:06 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 11:06:00,False
+03/09/25, 11:18 , Dineshkumar, Upper berth only🥹🥹,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 11:18:00,False
+03/09/25, 11:18 , Jayabharathi, santhosam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 11:18:00,False
+03/09/25, 11:18 , Jayabharathi, enaku onu ila aana athai dhan ethavathu sollite irupanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 11:18:00,False
+03/09/25, 11:19 , Dineshkumar, Enna panrathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 11:19:00,False
+03/09/25, 11:19 , Jayabharathi, vidu paathukalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 11:19:00,False
+03/09/25, 12:09 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 12:09:00,False
+03/09/25, 13:33 , Jayabharathi, Enna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 13:33:00,False
+03/09/25, 13:36 , Dineshkumar, Otp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-03-09 13:36:00,False
+04/09/25, 21:10 , Jayabharathi, Inimel prms ah athai oda ticket potinga na verave matten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-09 21:10:00,False
+04/09/25, 21:11 , Jayabharathi, Serious ah semma kadupa aaguthu,"{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.0772}",0.0,0.245,-0.0772,0.755,negative,2025-04-09 21:11:00,False
+04/09/25, 21:11 , Jayabharathi, Return nenga vanthu kuttitu ponga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-09 21:11:00,False
+04/09/25, 21:11 , Jayabharathi, Avlo dhan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-09 21:11:00,False
+04/09/25, 21:11 , Jayabharathi, Ila na next week varen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-09 21:11:00,False
+04/09/25, 21:11 , Jayabharathi, Trichy la irunthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-09 21:11:00,False
+04/09/25, 21:12 , Jayabharathi, Nenga ena thappa nenaichalum paravala na inimel athai oda engaiyum poga matten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-09 21:12:00,False
+04/09/25, 21:12 , Jayabharathi, 1 week irunthutu dhan varen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-04-09 21:12:00,False
+05/09/25, 17:40 , Dineshkumar, House owner +919952836576,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-09 17:40:00,False
+05/09/25, 17:40 , Dineshkumar, Send 8500 to this number,"{'neg': 0.0, 'neu': 0.744, 'pos': 0.256, 'compound': 0.0964}",0.256,0.0,0.0964,0.744,positive,2025-05-09 17:40:00,False
+05/09/25, 17:40 , Jayabharathi, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-09 17:40:00,False
+05/09/25, 17:41 , Dineshkumar, Name :Veera rajan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-09 17:41:00,False
+05/09/25, 17:44 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-09 17:44:00,False
+05/09/25, 17:45 , Dineshkumar, 👍🏼,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-09 17:45:00,False
+05/09/25, 20:05 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-05-09 20:05:00,False
+06/09/25, 09:13 , Dineshkumar, https://youtu.be/DuykqNkPgUo?si=c-Q5OsTEphVpHz8k,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-06-09 09:13:00,False
+07/09/25, 10:40 , Jayabharathi, Enna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 10:40:00,False
+07/09/25, 10:50 , Dineshkumar, Train ticket,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 10:50:00,False
+07/09/25, 10:51 , Dineshkumar, 3.30 passenger ku vanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 10:51:00,False
+07/09/25, 10:51 , Dineshkumar, Na try panren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 10:51:00,False
+07/09/25, 10:51 , Dineshkumar, Be ready for 3.30 train,"{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.3612}",0.385,0.0,0.3612,0.615,positive,2025-07-09 10:51:00,False
+07/09/25, 11:03 , Jayabharathi, Mm,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:03:00,False
+07/09/25, 11:04 , Dineshkumar, 😊,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-09 11:04:00,False
+07/09/25, 11:04 , Dineshkumar, 💓,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-09 11:04:00,False
+07/09/25, 11:06 , Jayabharathi, Agan prescription photo send panu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:06:00,True
+07/09/25, 11:06 , Jayabharathi, Surya room la left side self la iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:06:00,False
+07/09/25, 11:07 , Dineshkumar, Y,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-07-09 11:07:00,False
+07/09/25, 11:07 , Jayabharathi, Enaku tablet venum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:07:00,False
+07/09/25, 11:07 , Dineshkumar, Go and consult doctor,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:07:00,False
+07/09/25, 11:08 , Jayabharathi, Innaiki hospital la leave,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.0516}",0.0,0.286,-0.0516,0.714,negative,2025-07-09 11:08:00,False
+07/09/25, 11:08 , Jayabharathi, Send panu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:08:00,False
+07/09/25, 11:10 , Jayabharathi, Na night bus ke varen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:10:00,False
+07/09/25, 11:10 , Jayabharathi, 11.30 ku onnu iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:10:00,False
+07/09/25, 11:10 , Dineshkumar, Wat?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:10:00,False
+07/09/25, 11:10 , Jayabharathi, redBus la,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:10:00,False
+07/09/25, 11:13 , Jayabharathi, Un family yarukum aduthavangala hurt pannama pesa theriyutha,"{'neg': 0.327, 'neu': 0.673, 'pos': 0.0, 'compound': -0.5267}",0.0,0.327,-0.5267,0.673,negative,2025-07-09 11:13:00,False
+07/09/25, 11:13 , Jayabharathi, Unga yaraiyum thirutha mudiyathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:13:00,False
+07/09/25, 11:14 , Jayabharathi, Na last varaikum tablet pottu saavuren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:14:00,False
+07/09/25, 11:14 , Jayabharathi, Send pannu prescription ah,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:14:00,False
+07/09/25, 11:14 , Jayabharathi, Na oru thappum panala na Ethuku tablet pannanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:14:00,False
+07/09/25, 11:14 , Jayabharathi, Solu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:14:00,False
+07/09/25, 11:15 , Jayabharathi, Poi solli marriage pannathu nenga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:15:00,False
+07/09/25, 11:16 , Jayabharathi, Appaiyum accept panni dhane iruken,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.3818}",0.394,0.0,0.3818,0.606,positive,2025-07-09 11:16:00,False
+07/09/25, 11:16 , Jayabharathi, Athuke nenga ella vaiya mutitu irukanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:16:00,False
+07/09/25, 11:17 , Jayabharathi, Appaiyum yen thairiyama ivlo pesurinha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:17:00,False
+07/09/25, 11:17 , Jayabharathi, Prescription send panu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:17:00,False
+07/09/25, 11:17 , Jayabharathi, Tablet vanganum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 11:17:00,False
+07/09/25, 12:28 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:28:00,False
+07/09/25, 12:28 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:28:00,False
+07/09/25, 12:44 , Dineshkumar, Ne wait panni doctor ah pathutu va,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:44:00,False
+07/09/25, 12:45 , Dineshkumar, Amma va mattum vara sollu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:45:00,False
+07/09/25, 12:45 , Jayabharathi, Na Ethuku doctor pakkanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:45:00,False
+07/09/25, 12:45 , Dineshkumar, Tablet padanum nu sonnala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:45:00,False
+07/09/25, 12:45 , Dineshkumar, Athan sonnen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:45:00,False
+07/09/25, 12:46 , Jayabharathi, Enta prescription Iruku na pottupen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:46:00,False
+07/09/25, 12:46 , Jayabharathi, Prescription anga dhan iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:46:00,False
+07/09/25, 12:50 , Dineshkumar, Next month enna date nu sollu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:50:00,True
+07/09/25, 12:50 , Jayabharathi, Enna,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:50:00,False
+07/09/25, 12:50 , Jayabharathi, Ethuku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:50:00,False
+07/09/25, 12:51 , Dineshkumar, Veliya poga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:51:00,False
+07/09/25, 12:51 , Dineshkumar, This month 2728 ok va,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.355,0.0,0.296,0.645,positive,2025-07-09 12:51:00,False
+07/09/25, 12:52 , Jayabharathi, Na engaiyum varala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:52:00,False
+07/09/25, 12:52 , Jayabharathi, Ipola enaku interest ila,"{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}",0.5,0.0,0.4588,0.5,positive,2025-07-09 12:52:00,False
+07/09/25, 12:52 , Jayabharathi, Na thaniya irukum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:52:00,False
+07/09/25, 12:52 , Dineshkumar, Raghubalaji ta sollirudhen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:52:00,False
+07/09/25, 12:52 , Dineshkumar, He asked for dates to book,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:52:00,True
+07/09/25, 12:53 , Jayabharathi, Enaku thaniya iruka dhan pudichuruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:53:00,False
+07/09/25, 12:53 , Dineshkumar, Avan ku therinjavanga resort irukku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:53:00,False
+07/09/25, 12:53 , Dineshkumar, Ok di..,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2025-07-09 12:53:00,False
+07/09/25, 12:53 , Dineshkumar, Just calm down,"{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.3182}",0.535,0.0,0.3182,0.465,positive,2025-07-09 12:53:00,False
+07/09/25, 12:54 , Dineshkumar, No unwanted thoughts,"{'neg': 0.804, 'neu': 0.196, 'pos': 0.0, 'compound': -0.4767}",0.0,0.804,-0.4767,0.196,negative,2025-07-09 12:54:00,False
+07/09/25, 12:54 , Dineshkumar, Please,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}",1.0,0.0,0.3182,0.0,positive,2025-07-09 12:54:00,False
+07/09/25, 12:54 , Dineshkumar, Enta pesu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:54:00,False
+07/09/25, 12:54 , Dineshkumar, Tomorrow last dose injection poda ponum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:54:00,False
+07/09/25, 12:56 , Jayabharathi, Enta ne starting eh pesi iruntha ena purinji iruntha na evlo nalla irunthurupen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:56:00,False
+07/09/25, 12:57 , Jayabharathi, Surya  athai um epdi la ena pesunanga theriyuma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:57:00,False
+07/09/25, 12:57 , Jayabharathi, Unaku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:57:00,False
+07/09/25, 12:57 , Jayabharathi, Evlo hurt aairupen,"{'neg': 0.63, 'neu': 0.37, 'pos': 0.0, 'compound': -0.5267}",0.0,0.63,-0.5267,0.37,negative,2025-07-09 12:57:00,False
+07/09/25, 12:58 , Dineshkumar, Ok ma Enakku puriyuthu..time eh sari illaa..ipo tha konjam happy ah irundhom,"{'neg': 0.0, 'neu': 0.629, 'pos': 0.371, 'compound': 0.7096}",0.371,0.0,0.7096,0.629,positive,2025-07-09 12:58:00,False
+07/09/25, 12:59 , Dineshkumar, Mari...Mari..edho vandhute iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 12:59:00,False
+07/09/25, 13:00 , Dineshkumar, Na ippo tha antha understanding ku varen..konja nal la ellam sari aaidum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:00:00,False
+07/09/25, 13:04 , Dineshkumar, Un health tha important..avanga nammala pathi yosikka matanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:04:00,False
+07/09/25, 13:05 , Dineshkumar, Antha conditioner vandhuruchu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:05:00,False
+07/09/25, 13:05 , Dineshkumar, Nalla tha baby irukku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:05:00,True
+07/09/25, 13:06 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:06:00,False
+07/09/25, 13:07 , Jayabharathi, Ne dhan pesa sonna aana Ethuku pesurathu kekka matra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:07:00,False
+07/09/25, 13:07 , Dineshkumar, Sollu baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:07:00,True
+07/09/25, 13:07 , Jayabharathi, Adhan ethuvum unta sollra ku pudikala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:07:00,False
+07/09/25, 13:07 , Dineshkumar, Call pannava,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:07:00,False
+07/09/25, 13:08 , Jayabharathi, Unaku en perchana kekka interest ila na thaniya irukanum,"{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.4588}",0.273,0.0,0.4588,0.727,positive,2025-07-09 13:08:00,False
+07/09/25, 13:09 , Jayabharathi, Yaraiyum disturb panna matten,"{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.4019}",0.0,0.474,-0.4019,0.526,negative,2025-07-09 13:09:00,False
+07/09/25, 13:09 , Jayabharathi, Nane paaathupen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:09:00,False
+07/09/25, 13:09 , Dineshkumar, Na athukku thana iruken,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:09:00,False
+07/09/25, 13:09 , Jayabharathi, Enaku dhan problem nane paathupen,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.4019}",0.0,0.403,-0.4019,0.597,negative,2025-07-09 13:09:00,False
+07/09/25, 13:10 , Jayabharathi, Yaraiyum en problem ah share panna pudikathu,"{'neg': 0.273, 'neu': 0.505, 'pos': 0.222, 'compound': -0.128}",0.222,0.273,-0.128,0.505,negative,2025-07-09 13:10:00,False
+07/09/25, 13:10 , Dineshkumar, Last time ne sonna la..enna pesa vidunga nu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:10:00,False
+07/09/25, 13:10 , Dineshkumar, Enta thana sollanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:10:00,False
+07/09/25, 13:11 , Jayabharathi, Ne ipo ketta naala dhan sonnen aana ne conditioner pathi pesura na solratha serious ah ve eduka matringa,"{'neg': 0.071, 'neu': 0.929, 'pos': 0.0, 'compound': -0.0772}",0.0,0.071,-0.0772,0.929,negative,2025-07-09 13:11:00,False
+07/09/25, 13:13 , Jayabharathi, Na pothuvave en problem eh yataiyum share panna matten,"{'neg': 0.227, 'neu': 0.588, 'pos': 0.185, 'compound': -0.128}",0.185,0.227,-0.128,0.588,negative,2025-07-09 13:13:00,False
+07/09/25, 13:13 , Jayabharathi, Na paathukiren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:13:00,False
+07/09/25, 13:17 , Jayabharathi, Nenga ketta aana dhan na sonnen.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:17:00,False
+07/09/25, 13:17 , Jayabharathi, Sorry 😊,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0772}",0.0,1.0,-0.0772,0.0,negative,2025-07-09 13:17:00,False
+07/09/25, 13:22 , Dineshkumar, Ipo tha parcel ah open pannen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:22:00,False
+07/09/25, 13:22 , Dineshkumar, Athan send pannen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:22:00,False
+07/09/25, 13:22 , Jayabharathi, Okay ma,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.655,0.0,0.2263,0.345,positive,2025-07-09 13:22:00,False
+07/09/25, 13:22 , Dineshkumar, Na thappa pesirundha sorry,"{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.0772}",0.0,0.302,-0.0772,0.698,negative,2025-07-09 13:22:00,False
+07/09/25, 13:22 , Jayabharathi, It's okay ma,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}",0.487,0.0,0.2263,0.513,positive,2025-07-09 13:22:00,False
+07/09/25, 13:23 , Dineshkumar, Oru excitement la nalla product vandhuruchu nu unta share pannen,"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.6597}",0.403,0.0,0.6597,0.597,positive,2025-07-09 13:23:00,False
+07/09/25, 13:23 , Jayabharathi, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2025-07-09 13:23:00,False
+07/09/25, 13:23 , Jayabharathi, Thanks,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}",1.0,0.0,0.4404,0.0,positive,2025-07-09 13:23:00,False
+07/09/25, 13:23 , Dineshkumar, Idha situation la na send panniruka kudathu..sorry,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:23:00,False
+07/09/25, 13:24 , Jayabharathi, Cha cha apdi la ila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:24:00,False
+07/09/25, 13:24 , Jayabharathi, Enaku dhane pottinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:24:00,False
+07/09/25, 13:24 , Jayabharathi, Evlo amount adhu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:24:00,False
+07/09/25, 13:24 , Dineshkumar, Namma varuma varadhanu nenachutu irundhom,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:24:00,False
+07/09/25, 13:25 , Jayabharathi, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2025-07-09 13:25:00,False
+07/09/25, 13:25 , Dineshkumar, 1050 nu neanikuren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:25:00,False
+07/09/25, 13:26 , Jayabharathi, Okay send panren,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}",0.487,0.0,0.2263,0.513,positive,2025-07-09 13:26:00,False
+07/09/25, 13:26 , Jayabharathi, Next month,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:26:00,False
+07/09/25, 13:26 , Dineshkumar, 😂😂😂,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:26:00,False
+07/09/25, 13:27 , Jayabharathi, Yen sirikiringa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:27:00,False
+07/09/25, 13:27 , Jayabharathi, Na panren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:27:00,False
+07/09/25, 13:27 , Jayabharathi, Enaku dhane,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:27:00,False
+07/09/25, 13:27 , Dineshkumar, Ok ma..,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2025-07-09 13:27:00,False
+07/09/25, 13:27 , Jayabharathi, Na intha month oru course panren adhan amount ila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:27:00,False
+07/09/25, 13:27 , Dineshkumar, Ma unakku pidikathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:27:00,False
+07/09/25, 13:27 , Jayabharathi, Next month panren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:27:00,False
+07/09/25, 13:28 , Dineshkumar, Ok pa..,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2025-07-09 13:28:00,False
+07/09/25, 13:29 , Dineshkumar, Why call attend panna matra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:29:00,False
+07/09/25, 13:29 , Dineshkumar, Na enna thappu pannen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:29:00,False
+07/09/25, 13:30 , Jayabharathi, Hy apdila ila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:30:00,False
+07/09/25, 13:30 , Jayabharathi, Enaku konjam odambu sari ila,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:30:00,False
+07/09/25, 13:30 , Jayabharathi, Nalaiku pesuren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:30:00,False
+07/09/25, 13:30 , Dineshkumar, Nalaika,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:30:00,False
+07/09/25, 13:31 , Dineshkumar, Ne varalaya?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:31:00,False
+07/09/25, 13:31 , Dineshkumar, Enna plan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:31:00,False
+07/09/25, 13:32 , Jayabharathi, Aruppukottai dhane varen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:32:00,False
+07/09/25, 13:32 , Jayabharathi, Nalaiku pesuren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:32:00,False
+07/09/25, 13:32 , Jayabharathi, I need rest dhan,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:32:00,False
+07/09/25, 13:33 , Dineshkumar, Baby.. please make sure u are happy,"{'neg': 0.0, 'neu': 0.265, 'pos': 0.735, 'compound': 0.8074}",0.735,0.0,0.8074,0.265,positive,2025-07-09 13:33:00,True
+07/09/25, 13:33 , Dineshkumar, Illa na konjam anga rest eduthutu va,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:33:00,False
+07/09/25, 13:33 , Jayabharathi, Hy baby la sollathinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:33:00,True
+07/09/25, 13:34 , Jayabharathi, Text you later,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:34:00,False
+07/09/25, 13:34 , Jayabharathi, Bye,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:34:00,False
+07/09/25, 13:34 , Dineshkumar, Ok pa..sollala,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2025-07-09 13:34:00,False
+07/09/25, 13:34 , Dineshkumar, Enna prachana ..sollu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 13:34:00,False
+07/09/25, 13:35 , Dineshkumar, Sonna ne konjam free ah iruppa,"{'neg': 0.0, 'neu': 0.602, 'pos': 0.398, 'compound': 0.5106}",0.398,0.0,0.5106,0.602,positive,2025-07-09 13:35:00,False
+07/09/25, 16:35 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 16:35:00,False
+07/09/25, 17:13 , Dineshkumar, Pesu ma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 17:13:00,False
+07/09/25, 17:22 , Dineshkumar, Bavani,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 17:22:00,False
+07/09/25, 17:40 , Dineshkumar, Are u ok,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2025-07-09 17:40:00,False
+07/09/25, 17:41 , Dineshkumar, Please..be normal,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 17:41:00,False
+07/09/25, 17:41 , Dineshkumar, Iam not able to take this,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 17:41:00,False
+07/09/25, 17:41 , Dineshkumar, It's hurting,"{'neg': 0.73, 'neu': 0.27, 'pos': 0.0, 'compound': -0.4019}",0.0,0.73,-0.4019,0.27,negative,2025-07-09 17:41:00,False
+07/09/25, 17:41 , Dineshkumar, Please.....😭😭😭😭,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 17:41:00,False
+07/09/25, 17:42 , Dineshkumar, Go outside and get some fresh air,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}",0.277,0.0,0.3182,0.723,positive,2025-07-09 17:42:00,False
+07/09/25, 18:43 , Dineshkumar, Na varava?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 18:43:00,False
+07/09/25, 18:44 , Jayabharathi, Na thaniya dha irupen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 18:44:00,False
+07/09/25, 18:48 , Dineshkumar, Ok..da,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 18:48:00,False
+07/09/25, 18:49 , Dineshkumar, But happy ah iru,"{'neg': 0.0, 'neu': 0.373, 'pos': 0.627, 'compound': 0.7227}",0.627,0.0,0.7227,0.373,positive,2025-07-09 18:49:00,False
+07/09/25, 18:55 , Dineshkumar, Haiksana enna panra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 18:55:00,False
+07/09/25, 20:28 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 20:28:00,False
+07/09/25, 21:31 , Dineshkumar, Saptiya?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-07-09 21:31:00,False
+09/09/25, 10:53 , Dineshkumar, Epo hospital poringa?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-09 10:53:00,False
+10/09/25, 22:12 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-09 22:12:00,False
+11/09/25, 11:07 , Jayabharathi, Saturday ticket iruka nu parunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:07:00,False
+11/09/25, 11:08 , Jayabharathi, Saturday office Sunday leave rest edukalam,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.0516}",0.0,0.194,-0.0516,0.806,negative,2025-11-09 11:08:00,False
+11/09/25, 11:10 , Dineshkumar, Saturday Eve vandhebharth tha correct ah irukum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:10:00,False
+11/09/25, 11:11 , Jayabharathi, Timing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:11:00,False
+11/09/25, 11:11 , Dineshkumar, 6.40,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:11:00,False
+11/09/25, 11:11 , Dineshkumar, Eve,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:11:00,False
+11/09/25, 11:13 , Jayabharathi, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2025-11-09 11:13:00,False
+11/09/25, 11:13 , Jayabharathi, 40k ipo irukuma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:13:00,False
+11/09/25, 11:13 , Dineshkumar, Illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:13:00,False
+11/09/25, 11:18 , Jayabharathi, Vera yartaiyum irukuma,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:18:00,False
+11/09/25, 11:18 , Jayabharathi, Amma jwellery vaichu eduthu tharen nu sonanga adhan ketten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:18:00,False
+11/09/25, 11:21 , Dineshkumar, Loan against ur mutual funds try pannalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:21:00,False
+11/09/25, 11:21 , Dineshkumar, Epo venun,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:21:00,False
+11/09/25, 11:21 , Dineshkumar, Next month course pannalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:21:00,False
+11/09/25, 11:28 , Jayabharathi, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2025-11-09 11:28:00,False
+11/09/25, 11:29 , Jayabharathi, Ithu try panalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:29:00,False
+11/09/25, 11:29 , Dineshkumar, 1st relax..,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:29:00,False
+11/09/25, 11:29 , Jayabharathi, Ila time pote iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:29:00,False
+11/09/25, 11:29 , Jayabharathi, Start pannanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:29:00,False
+11/09/25, 11:29 , Dineshkumar, Don't over thik,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:29:00,False
+11/09/25, 11:30 , Jayabharathi, Na normal ah dhan iruken,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:30:00,False
+11/09/25, 11:30 , Dineshkumar, Ellam pathukalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:30:00,False
+11/09/25, 11:30 , Dineshkumar, Avasarapadha..,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:30:00,False
+11/09/25, 11:30 , Dineshkumar, Ready pannalam,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.714,0.0,0.3612,0.286,positive,2025-11-09 11:30:00,False
+11/09/25, 11:32 , Jayabharathi, Next week start panalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:32:00,False
+11/09/25, 11:38 , Dineshkumar, Health first,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 11:38:00,False
+11/09/25, 11:40 , Dineshkumar, Daily routine ah set panni time table pottu. Course ku time set pannuvom and parallel ah amount ready pannuvom,"{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.3612}",0.122,0.0,0.3612,0.878,positive,2025-11-09 11:40:00,False
+11/09/25, 14:53 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-11-09 14:53:00,False
+11/09/25, 14:53 , Jayabharathi, Amma ku call panunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 14:53:00,False
+11/09/25, 14:54 , Jayabharathi, Na meeting la iruken,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 14:54:00,False
+11/09/25, 14:54 , Dineshkumar, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2025-11-09 14:54:00,False
+11/09/25, 21:18 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-11-09 21:18:00,False
+11/09/25, 21:18 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-11-09 21:18:00,False
+11/09/25, 22:52 , Dineshkumar, https://youtube.com/shorts/kyL6zVQnqYc?si=Vsfe6zejCDks8qEl,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-09 22:52:00,False
+13/09/25, 08:19 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-13 08:19:00,False
+13/09/25, 08:57 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-13 08:57:00,False
+13/09/25, 13:13 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-13 13:13:00,False
+15/09/25, 09:30 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-15 09:30:00,False
+15/09/25, 12:00 , Dineshkumar, Good photography skill,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.592,0.0,0.4404,0.408,positive,2025-09-15 12:00:00,True
+15/09/25, 12:01 , Dineshkumar, Name romba visible ah irukku🥵,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-15 12:01:00,False
+16/09/25, 19:47 , Dineshkumar, https://youtube.com/shorts/BHeZn8RbnT0?si=XUU-cLWmB4NcnqeW,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-16 19:47:00,False
+16/09/25, 21:06 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-16 21:06:00,False
+17/09/25, 15:08 , Jayabharathi, bavani275-1@okaxis,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-17 15:08:00,False
+18/09/25, 09:57 , Jayabharathi, 48000 credited,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}",0.714,0.0,0.3612,0.286,positive,2025-09-18 09:57:00,False
+18/09/25, 10:36 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-18 10:36:00,False
+22/09/25, 02:59 , Dineshkumar, Loot 21 : https://fkrt.cc/hXHsQ5w,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-09-22 02:59:00,False
+23/09/25, 16:18 , Dineshkumar, Motion sensor LED bulb automatically turns on when motion detected energy-efficient and long-lasting for smart home illumination. Learn more and shop now! ,"{'neg': 0.0, 'neu': 0.875, 'pos': 0.125, 'compound': 0.4574}",0.125,0.0,0.4574,0.875,positive,2025-09-23 16:18:00,False
+30/09/25, 18:38 , Jayabharathi, Nalaiki leave illaiya,"{'neg': 0.375, 'neu': 0.625, 'pos': 0.0, 'compound': -0.0516}",0.0,0.375,-0.0516,0.625,negative,2025-09-30 18:38:00,False
+01/10/25, 21:30 , Jayabharathi, Allo Idli Steamer Stainless Steel ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-01-10 21:30:00,False
+02/10/25, 21:46 , Jayabharathi, EasyBuy https://share.google/M93WQlRp98HcDdk1L,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-10 21:46:00,False
+11/10/25, 09:22 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-10 09:22:00,False
+12/10/25, 08:58 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-10 08:58:00,False
+13/10/25, 20:36 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-13 20:36:00,False
+13/10/25, 20:53 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-13 20:53:00,False
+16/10/25, 06:36 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-16 06:36:00,False
+18/10/25, 11:38 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-18 11:38:00,False
+18/10/25, 11:38 , Dineshkumar, 8923,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-18 11:38:00,False
+18/10/25, 11:38 , Dineshkumar, Otp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-18 11:38:00,False
+21/10/25, 19:56 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-21 19:56:00,False
+21/10/25, 19:56 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-21 19:56:00,False
+22/10/25, 18:15 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-22 18:15:00,False
+22/10/25, 18:15 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-22 18:15:00,False
+22/10/25, 18:15 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-22 18:15:00,False
+22/10/25, 18:15 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-22 18:15:00,False
+23/10/25, 21:33 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-10-23 21:33:00,False
+23/10/25, 21:33 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-10-23 21:33:00,False
+23/10/25, 21:35 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-10-23 21:35:00,False
+23/10/25, 21:36 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-10-23 21:36:00,False
+23/10/25, 21:51 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-10-23 21:51:00,False
+30/10/25, 19:31 , Dineshkumar, 9827,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-30 19:31:00,False
+02/11/25, 08:43 , Dineshkumar, Baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-11 08:43:00,True
+02/11/25, 08:50 , Jayabharathi, Solunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-11 08:50:00,False
+08/11/25, 10:08 , Dineshkumar, Invoice generated for Rs. 904.Share DAC 212662 on delivery. Download eInvoice https://cx.indianoil.in/webcenter/portal/LPG/pages_h?cId=15532688700,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-11 10:08:00,False
+08/11/25, 15:33 , Jayabharathi, OTP solla mudiyuma mudiyatha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-11 15:33:00,False
+08/11/25, 16:07 , Dineshkumar, Baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-11 16:07:00,True
+08/11/25, 16:08 , Dineshkumar, Ipo send pannu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-11 16:08:00,False
+08/11/25, 18:31 , Jayabharathi, Otp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-11 18:31:00,False
+08/11/25, 18:31 , Jayabharathi, Plz,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.0772}",1.0,0.0,0.0772,0.0,positive,2025-08-11 18:31:00,False
+08/11/25, 18:31 , Dineshkumar, 7612,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-08-11 18:31:00,False
+10/11/25, 11:39 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-10-11 11:39:00,False
+12/11/25, 13:23 , Dineshkumar, https://youtube.com/shorts/5i8AjgGn8bA?si=9F96oU7K3ptj8jfb,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-11 13:23:00,False
+12/11/25, 18:31 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-11 18:31:00,False
+15/11/25, 15:43 , Jayabharathi, Aiyo enaku semma tension aaguthu un amma pesurathe tension aaguthu,"{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.5574}",0.0,0.365,-0.5574,0.635,negative,2025-11-15 15:43:00,False
+15/11/25, 15:43 , Jayabharathi, Ne enna venalum nenaichuko,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-15 15:43:00,False
+15/11/25, 15:44 , Jayabharathi, Eppaiyum oru time aratra mari pesuna sari eppome apdi dha pesuranga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-15 15:44:00,False
+15/11/25, 15:45 , Jayabharathi, Voice ah kettale yerichala varuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-15 15:45:00,False
+15/11/25, 15:50 , Jayabharathi, Ne vera Saturday Sunday ennaiya thaniya vittutu poiruringa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-15 15:50:00,False
+18/11/25, 20:17 , Jayabharathi, https://youtube.com/shorts/f8-cs9ZDTXQ?si=9-3GKmQJOYh-hzTl,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-18 20:17:00,False
+24/11/25, 13:14 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-11-24 13:14:00,False
+24/11/25, 13:14 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-24 13:14:00,False
+24/11/25, 13:14 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-24 13:14:00,False
+28/11/25, 11:37 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-28 11:37:00,False
+28/11/25, 12:03 , Dineshkumar, 😂😂😂🥰🥰🥰,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-28 12:03:00,False
+28/11/25, 12:04 , Jayabharathi, 😅🤗,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-28 12:04:00,False
+28/11/25, 12:28 , Jayabharathi, Sanjeeth varuvangala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-11-28 12:28:00,False
+02/12/25, 11:07 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-02-12 11:07:00,False
+02/12/25, 11:07 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-12 11:07:00,False
+02/12/25, 11:07 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-12 11:07:00,False
+02/12/25, 11:07 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-02-12 11:07:00,False
+19/12/25, 08:27 , Jayabharathi, https://youtube.com/shorts/jtizopYltcY?si=mtXU0xK3vIgHlnDg,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-19 08:27:00,False
+19/12/25, 12:02 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-19 12:02:00,False
+20/12/25, 14:36 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-20 14:36:00,False
+20/12/25, 21:34 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-20 21:34:00,False
+25/12/25, 18:58 , Jayabharathi, pottu kadalai 1/2 kg,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-25 18:58:00,False
+26/12/25, 08:35 , Dineshkumar, R2A5V1E4H0T,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-26 08:35:00,False
+28/12/25, 08:47 , Jayabharathi, Flax seeds ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-28 08:47:00,False
+28/12/25, 13:33 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-28 13:33:00,False
+29/12/25, 21:15 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-12-29 21:15:00,False
+30/12/25, 18:53 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-12-30 18:53:00,False
+30/12/25, 18:53 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-30 18:53:00,False
+30/12/25, 18:53 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-30 18:53:00,False
+30/12/25, 18:53 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-30 18:53:00,False
+30/12/25, 18:53 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-30 18:53:00,False
+30/12/25, 21:23 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-12-30 21:23:00,False
+30/12/25, 21:23 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-12-30 21:23:00,False
+30/12/25, 21:24 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2025-12-30 21:24:00,False
+30/12/25, 22:34 , Jayabharathi, https://www.instagram.com/reel/DN-3k35AWpc/?igsh=MXR0b3Q5Z2RpMm1jbA==,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2025-12-30 22:34:00,False
+01/01/26, 00:02 , Dineshkumar, Happy new year 🎊🎊,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.552,0.0,0.5719,0.448,positive,2026-01-01 00:02:00,False
+01/01/26, 07:41 , Jayabharathi, Happy new year babee🥰😘😘,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",0.552,0.0,0.5719,0.448,positive,2026-01-01 07:41:00,True
+01/01/26, 07:41 , Jayabharathi, Serious intha year namakku new year ah dhan irukum,"{'neg': 0.14, 'neu': 0.86, 'pos': 0.0, 'compound': -0.0772}",0.0,0.14,-0.0772,0.86,negative,2026-01-01 07:41:00,False
+01/01/26, 07:42 , Jayabharathi, Have positive thoughts and full of enjoyment oda happy intha year ah end pannanum babee,"{'neg': 0.0, 'neu': 0.524, 'pos': 0.476, 'compound': 0.8979}",0.476,0.0,0.8979,0.524,positive,2026-01-01 07:42:00,True
+01/01/26, 07:43 , Jayabharathi, Athu dhan namma resolution,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 07:43:00,False
+01/01/26, 07:43 , Jayabharathi, Done ah ?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 07:43:00,False
+01/01/26, 07:52 , Dineshkumar, Yes baby,"{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}",0.73,0.0,0.4019,0.27,positive,2026-01-01 07:52:00,True
+01/01/26, 07:52 , Jayabharathi, Love you,"{'neg': 0.0, 'neu': 0.192, 'pos': 0.808, 'compound': 0.6369}",0.808,0.0,0.6369,0.192,positive,2026-01-01 07:52:00,True
+01/01/26, 07:52 , Dineshkumar, As ur wish 😉,"{'neg': 0.0, 'neu': 0.426, 'pos': 0.574, 'compound': 0.4019}",0.574,0.0,0.4019,0.426,positive,2026-01-01 07:52:00,True
+01/01/26, 07:53 , Jayabharathi, ❤️,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 07:53:00,True
+01/01/26, 07:53 , Dineshkumar, Love 💖,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.6369}",1.0,0.0,0.6369,0.0,positive,2026-01-01 07:53:00,True
+01/01/26, 07:53 , Jayabharathi, 😘,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-01 07:53:00,True
+01/01/26, 07:57 , Jayabharathi, New refreshment oda new life ah start pannalam babe,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 07:57:00,True
+01/01/26, 12:44 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 12:44:00,False
+01/01/26, 12:44 , Dineshkumar, Buy 2 more itc,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 12:44:00,False
+01/01/26, 12:59 , Jayabharathi, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2026-01-01 12:59:00,False
+01/01/26, 13:00 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:00 , Jayabharathi, Okok,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:00 , Dineshkumar, Na apo send pannathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:00 , Jayabharathi, Okk,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:00 , Dineshkumar, Don't buy now,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:00 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:00 , Dineshkumar, Watch it and then buy,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:00 , Jayabharathi, Ipo vangata,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:00:00,False
+01/01/26, 13:01 , Dineshkumar, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2026-01-01 13:01:00,False
+01/01/26, 13:01 , Dineshkumar, 1 mattum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:01:00,False
+01/01/26, 13:01 , Jayabharathi, Vangite,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:01:00,False
+01/01/26, 13:02 , Dineshkumar, K,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-01 13:02:00,False
+01/01/26, 13:02 , Jayabharathi, 👍🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-01 13:02:00,False
+02/01/26, 23:46 , Dineshkumar, Slept ah?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-01 23:46:00,False
+03/01/26, 08:10 , Jayabharathi, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",1.0,0.0,0.4019,0.0,positive,2026-03-01 08:10:00,False
+03/01/26, 14:57 , Jayabharathi, Yen phone eh eduka matringa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-01 14:57:00,False
+04/01/26, 12:19 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-04-01 12:19:00,False
+04/01/26, 12:19 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-01 12:19:00,False
+04/01/26, 12:19 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-01 12:19:00,False
+04/01/26, 12:19 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-01 12:19:00,False
+04/01/26, 12:19 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-01 12:19:00,False
+04/01/26, 12:19 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-01 12:19:00,False
+06/01/26, 00:13 , Dineshkumar, Reached,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.1027}",1.0,0.0,0.1027,0.0,positive,2026-06-01 00:13:00,False
+06/01/26, 11:19 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-01 11:19:00,False
+06/01/26, 11:21 , Jayabharathi, Vangiten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-01 11:21:00,False
+06/01/26, 11:21 , Jayabharathi, 2,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-06-01 11:21:00,False
+06/01/26, 11:21 , Dineshkumar, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2026-06-01 11:21:00,False
+06/01/26, 11:22 , Dineshkumar, 2 vangu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-01 11:22:00,False
+06/01/26, 11:22 , Jayabharathi, Innum 2 ah,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-01 11:22:00,False
+06/01/26, 11:22 , Dineshkumar, S,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-06-01 11:22:00,False
+06/01/26, 17:54 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-01 17:54:00,False
+06/01/26, 17:54 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-01 17:54:00,False
+06/01/26, 18:52 , Dineshkumar, From sathis - 22140,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-01 18:52:00,False
+06/01/26, 21:45 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-06-01 21:45:00,False
+07/01/26, 14:20 , Dineshkumar, https://youtu.be/iEA2at7ssPQ?si=dhVR2yRpIq0L7Da4,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-07-01 14:20:00,False
+08/01/26, 21:34 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-08-01 21:34:00,False
+09/01/26, 13:22 , Dineshkumar, https://www.myntra.com/mailers/skin-care/ponds/ponds-super-light-gel-oil-free-moisturizer-with-cera-hyamino---300-g/30776812/buy?utm_source=social_share_pdp&utm_medium=deeplink&utm_campaign=social_share_pdp_deeplink,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-09-01 13:22:00,False
+09/01/26, 13:25 , Dineshkumar, https://www.myntra.com/mailers/skin-care/ponds/ponds-sun-miracle-spf-50-pa+++-creme-gel-sunscreen-with-niacinamide--100g/21955362/buy?utm_source=social_share_pdp&utm_medium=deeplink&utm_campaign=social_share_pdp_deeplink,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-09-01 13:25:00,False
+09/01/26, 14:56 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-09-01 14:56:00,False
+09/01/26, 19:00 , Jayabharathi, Ticket potingala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-09-01 19:00:00,False
+09/01/26, 19:25 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-09-01 19:25:00,False
+11/01/26, 22:07 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-11-01 22:07:00,False
+11/01/26, 22:07 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-11-01 22:07:00,False
+13/01/26, 07:53 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 07:53:00,False
+13/01/26, 08:06 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 08:06:00,False
+13/01/26, 10:42 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 10:42:00,False
+13/01/26, 10:44 , Dineshkumar, https://www.myntra.com/mailers/topwear/satyamfab/satyamfab-girls-ready-to-wear-lehenga-with-blouse-and-dupatta/33889613/buy?utm_source=social_share_pdp&utm_medium=deeplink&utm_campaign=social_share_pdp_deeplink,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 10:44:00,False
+13/01/26, 10:44 , Jayabharathi, No,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.296}",0.0,1.0,-0.296,0.0,negative,2026-01-13 10:44:00,False
+13/01/26, 10:47 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 10:47:00,False
+13/01/26, 10:48 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 10:48:00,False
+13/01/26, 10:48 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 10:48:00,False
+13/01/26, 10:49 , Jayabharathi, lehenga venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 10:49:00,False
+13/01/26, 10:49 , Jayabharathi, only sharara set,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 10:49:00,False
+13/01/26, 14:45 , Dineshkumar, SNACKS STALLS ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-13 14:45:00,False
+16/01/26, 15:40 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-16 15:40:00,False
+18/01/26, 23:31 , Jayabharathi, Reached,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.1027}",1.0,0.0,0.1027,0.0,positive,2026-01-18 23:31:00,False
+18/01/26, 23:31 , Jayabharathi, Ah,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-18 23:31:00,False
+19/01/26, 00:02 , Dineshkumar, Reached,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.1027}",1.0,0.0,0.1027,0.0,positive,2026-01-19 00:02:00,False
+19/01/26, 21:21 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-19 21:21:00,False
+20/01/26, 19:00 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-20 19:00:00,False
+20/01/26, 19:00 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-20 19:00:00,False
+20/01/26, 19:00 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-20 19:00:00,False
+20/01/26, 19:00 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-20 19:00:00,False
+21/01/26, 08:58 , Jayabharathi, Sorry,"{'neg': 1.0, 'neu': 0.0, 'pos': 0.0, 'compound': -0.0772}",0.0,1.0,-0.0772,0.0,negative,2026-01-21 08:58:00,False
+21/01/26, 09:55 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-21 09:55:00,False
+22/01/26, 07:42 , Jayabharathi, hi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-22 07:42:00,False
+22/01/26, 07:44 , Jayabharathi, today's gold rate 14500 innum namma satheesh ku edukala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-22 07:44:00,False
+22/01/26, 07:44 , Jayabharathi, gold rate erikitte dhan poguthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-22 07:44:00,False
+23/01/26, 22:28 , Jayabharathi, Na solrathu epome kekka matringa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-23 22:28:00,False
+23/01/26, 22:29 , Jayabharathi, Na solrathu nallathuke irunthalum kekka matringa. Athu ego ungaluku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-23 22:29:00,False
+23/01/26, 22:29 , Jayabharathi, Ithu dhan surya kum ungalukum different,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-23 22:29:00,False
+24/01/26, 23:17 , Dineshkumar, Hi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-24 23:17:00,False
+24/01/26, 23:18 , Dineshkumar, Awake?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-24 23:18:00,False
+25/01/26, 07:13 , Jayabharathi, Thungiten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 07:13:00,False
+25/01/26, 17:10 , Jayabharathi, Ena mattum yen poga kudathu nu solringa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 17:10:00,False
+25/01/26, 17:10 , Jayabharathi, Nengalum vanga nammalu family ah polam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 17:10:00,False
+25/01/26, 17:11 , Jayabharathi, Yen ungaluku vara pudikalaiya,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 17:11:00,False
+25/01/26, 17:11 , Jayabharathi, Yen vara matten nu solringa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 17:11:00,False
+25/01/26, 18:34 , Dineshkumar, Illa pa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 18:34:00,False
+25/01/26, 18:34 , Dineshkumar, Unakaga tha sonnen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 18:34:00,False
+25/01/26, 18:34 , Dineshkumar, Enakku enna?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 18:34:00,False
+25/01/26, 18:34 , Dineshkumar, I have work,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 18:34:00,False
+25/01/26, 18:49 , Jayabharathi, Ellarum family ah poranga na mattum epdi thaniya porathi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 18:49:00,False
+25/01/26, 19:52 , Dineshkumar, Ok polan,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2026-01-25 19:52:00,False
+25/01/26, 20:17 , Jayabharathi, Okay polam,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.655,0.0,0.2263,0.345,positive,2026-01-25 20:17:00,False
+25/01/26, 20:21 , Dineshkumar, Ok🥰,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 20:21:00,False
+25/01/26, 20:23 , Jayabharathi, Enna jolly mood la irukingala,"{'neg': 0.0, 'neu': 0.548, 'pos': 0.452, 'compound': 0.5106}",0.452,0.0,0.5106,0.548,positive,2026-01-25 20:23:00,False
+25/01/26, 20:26 , Dineshkumar, Illa,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 20:26:00,False
+25/01/26, 20:26 , Dineshkumar, Ne happy ah irundha podhun,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.5719}",0.481,0.0,0.5719,0.519,positive,2026-01-25 20:26:00,False
+25/01/26, 20:26 , Jayabharathi, Then lovely smiley la send panringa,"{'neg': 0.0, 'neu': 0.381, 'pos': 0.619, 'compound': 0.7579}",0.619,0.0,0.7579,0.381,positive,2026-01-25 20:26:00,True
+25/01/26, 20:26 , Jayabharathi, Okay polam vera sollitinga,"{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.2263}",0.388,0.0,0.2263,0.612,positive,2026-01-25 20:26:00,False
+25/01/26, 20:26 , Jayabharathi, Adha ketten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 20:26:00,False
+25/01/26, 21:51 , Jayabharathi, https://www.instagram.com/reel/DSbQKNBkgOR/?igsh=MWludzh3bzJkdDh0bw==,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 21:51:00,False
+25/01/26, 21:51 , Jayabharathi, Ithu mari sofa vangikal,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-25 21:51:00,False
+25/01/26, 21:55 , Dineshkumar, Ok pa,"{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}",0.688,0.0,0.296,0.312,positive,2026-01-25 21:55:00,False
+26/01/26, 10:30 , Dineshkumar, Send screenshot,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-26 10:30:00,True
+26/01/26, 10:34 , Jayabharathi, Enna screenshot,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-26 10:34:00,True
+26/01/26, 10:34 , Jayabharathi, Kite?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-26 10:34:00,False
+26/01/26, 10:34 , Dineshkumar, Sgb,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-26 10:34:00,False
+26/01/26, 10:35 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-26 10:35:00,False
+26/01/26, 11:42 , Jayabharathi, https://www.instagram.com/reel/DO7rQszgVBR/?igsh=MXdtdXczcG9nZzFycA==,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-26 11:42:00,False
+26/01/26, 11:42 , Jayabharathi, Ithu mari puthu veetuku vangikalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-26 11:42:00,False
+26/01/26, 22:47 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-26 22:47:00,False
+27/01/26, 15:35 , Jayabharathi, Saptingala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 15:35:00,False
+27/01/26, 15:37 , Jayabharathi, Baby innum 3 naal dhan iruku gold rate vera erikitte pothu epo edukurathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 15:37:00,True
+27/01/26, 22:28 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-27 22:28:00,False
+27/01/26, 22:43 , Jayabharathi, Blouse ku 2500 chudithar stitching ku 2500 facial ku 2000,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:43:00,False
+27/01/26, 22:43 , Jayabharathi, Send pannunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:43:00,False
+27/01/26, 22:43 , Jayabharathi, Urgent,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2023}",1.0,0.0,0.2023,0.0,positive,2026-01-27 22:43:00,False
+27/01/26, 22:43 , Jayabharathi, Ella husband um 5k ketta 10k send panranga question eh kekka mattranga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:43:00,False
+27/01/26, 22:43 , Dineshkumar, Sathis ta vangu di,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:43:00,False
+27/01/26, 22:44 , Jayabharathi, Innum yen antha kaalam mariye irukinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:44:00,False
+27/01/26, 22:45 , Jayabharathi, Dress mattum dhan aven oda bukjet,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:45:00,False
+27/01/26, 22:45 , Dineshkumar, Antha dress amount balance evlo irukku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:45:00,False
+27/01/26, 22:45 , Jayabharathi, 1900,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:45:00,False
+27/01/26, 22:45 , Jayabharathi, Nenga yen ipdi iruka matinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:45:00,False
+27/01/26, 22:46 , Dineshkumar, Naturally,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:46:00,False
+27/01/26, 22:46 , Jayabharathi, Natural ah na solren,"{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}",0.455,0.0,0.3612,0.545,positive,2026-01-27 22:46:00,False
+27/01/26, 22:46 , Dineshkumar, 12k budget solliru,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:46:00,False
+27/01/26, 22:47 , Jayabharathi, Sari vidu na paathukiren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:47:00,False
+27/01/26, 22:47 , Jayabharathi, Inimel unga kaas ah na kekka matten,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:47:00,False
+27/01/26, 22:47 , Dineshkumar, 5k send panren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:47:00,False
+27/01/26, 22:47 , Jayabharathi, Nengalum en kaas ah kekka kudathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:47:00,False
+27/01/26, 22:47 , Jayabharathi, Venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:47:00,False
+27/01/26, 22:48 , Jayabharathi, Na enna venalum pannuven,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:48:00,False
+27/01/26, 22:48 , Jayabharathi, Ivlo pesi dhan nenga send pannanum nu enaku venam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:48:00,False
+27/01/26, 22:48 , Jayabharathi, Na paathukiren,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:48:00,False
+27/01/26, 22:48 , Dineshkumar, Romba pesra,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:48:00,False
+27/01/26, 22:49 , Dineshkumar, Crossing ur limits,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:49:00,False
+27/01/26, 22:49 , Jayabharathi, Ungaluku ellam maasam 50k selavu panra wife varanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:49:00,False
+27/01/26, 22:49 , Dineshkumar, Apram un istam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-27 22:49:00,False
+27/01/26, 22:49 , Jayabharathi, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2026-01-27 22:49:00,False
+28/01/26, 07:31 , Jayabharathi, gemini pro iruku nu sonningala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 07:31:00,False
+28/01/26, 07:31 , Jayabharathi, adhan send paanuunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 07:31:00,False
+28/01/26, 07:42 , Jayabharathi, 5k send pannunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 07:42:00,False
+28/01/26, 18:52 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 18:52:00,False
+28/01/26, 18:52 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 18:52:00,False
+28/01/26, 18:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 18:53:00,False
+28/01/26, 20:55 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-28 20:55:00,False
+28/01/26, 20:55 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-28 20:55:00,False
+28/01/26, 21:30 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 21:30:00,False
+28/01/26, 21:48 , Jayabharathi, Pavadai um eduthutu vanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 21:48:00,False
+28/01/26, 22:26 , Dineshkumar, K Chellam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 22:26:00,False
+28/01/26, 22:27 , Jayabharathi, Chellam 🤔,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 22:27:00,False
+28/01/26, 22:27 , Jayabharathi, Athisaiyam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-28 22:27:00,False
+29/01/26, 10:05 , Dineshkumar, Baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:05:00,True
+29/01/26, 10:05 , Dineshkumar, Kammal enna eduthutu varanum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:05:00,False
+29/01/26, 10:06 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-29 10:06:00,False
+29/01/26, 10:11 , Jayabharathi, Jimmiki,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:11:00,False
+29/01/26, 10:11 , Jayabharathi, In meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:11:00,False
+29/01/26, 10:14 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:14:00,False
+29/01/26, 10:14 , Jayabharathi, Jimmiki eh kaanam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:14:00,False
+29/01/26, 10:16 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:16:00,False
+29/01/26, 10:16 , Jayabharathi, Yes,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}",1.0,0.0,0.4019,0.0,positive,2026-01-29 10:16:00,False
+29/01/26, 10:17 , Dineshkumar, 👍🏼,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-29 10:17:00,False
+30/01/26, 20:10 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-30 20:10:00,False
+30/01/26, 20:10 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-30 20:10:00,False
+30/01/26, 20:10 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-30 20:10:00,False
+31/01/26, 09:39 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-31 09:39:00,False
+01/02/26, 17:20 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-01-02 17:20:00,False
+01/02/26, 17:20 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 17:20:00,False
+01/02/26, 17:20 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 17:20:00,False
+01/02/26, 17:21 , Jayabharathi, Ipo kai la irukurathu 45 poun iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 17:21:00,False
+01/02/26, 17:21 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 17:21:00,False
+01/02/26, 18:41 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 18:41:00,False
+01/02/26, 18:41 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 18:41:00,False
+01/02/26, 18:51 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 18:51:00,False
+01/02/26, 18:52 , Jayabharathi, Ennoda missing,"{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}",0.0,0.688,-0.296,0.312,negative,2026-01-02 18:52:00,False
+01/02/26, 18:58 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 18:58:00,False
+01/02/26, 18:58 , Jayabharathi, Pappa odathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 18:58:00,False
+01/02/26, 19:08 , Jayabharathi, En laptop iruka,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 19:08:00,False
+01/02/26, 19:49 , Dineshkumar, Irukku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 19:49:00,False
+01/02/26, 19:52 , Jayabharathi, Onnu ila paathukalam na vanthutu iruken,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-01-02 19:52:00,False
+03/02/26, 19:19 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-02 19:19:00,False
+05/02/26, 08:33 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-05-02 08:33:00,False
+06/02/26, 22:17 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-06-02 22:17:00,False
+06/02/26, 22:17 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-06-02 22:17:00,False
+07/02/26, 22:46 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-07-02 22:46:00,False
+08/02/26, 22:02 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-08-02 22:02:00,False
+09/02/26, 22:56 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-09-02 22:56:00,False
+10/02/26, 12:01 , Jayabharathi, Ungala pakkanum pola iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-02 12:01:00,False
+10/02/26, 12:02 , Jayabharathi, Innum 5 days iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-02 12:02:00,False
+10/02/26, 12:02 , Jayabharathi, Kadupa iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-02 12:02:00,False
+10/02/26, 12:09 , Jayabharathi, Fast ah veetu parunga senthu irukalam,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-02 12:09:00,False
+10/02/26, 14:33 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-10-02 14:33:00,False
+10/02/26, 22:28 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-10-02 22:28:00,False
+11/02/26, 22:04 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-11-02 22:04:00,False
+13/02/26, 13:41 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-13 13:41:00,False
+13/02/26, 13:43 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-13 13:43:00,False
+13/02/26, 13:43 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-13 13:43:00,False
+13/02/26, 13:47 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-13 13:47:00,False
+13/02/26, 13:48 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-13 13:48:00,False
+13/02/26, 13:50 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-13 13:50:00,False
+13/02/26, 13:50 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-13 13:50:00,False
+14/02/26, 15:28 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-14 15:28:00,False
+15/02/26, 08:45 , Dineshkumar, Here is your JioMart Quick order. The delivery code is 7665. You can also check the OTP at https://www.jiomart.com/customer/orderhistory.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-15 08:45:00,False
+16/02/26, 13:55 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-16 13:55:00,False
+16/02/26, 17:43 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-16 17:43:00,False
+17/02/26, 09:34 , Jayabharathi, Key kidaichatha,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-17 09:34:00,False
+17/02/26, 17:54 , Jayabharathi, I've found this on OLX. What do you think? I HAVE RENTAL HOME'S ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-17 17:54:00,False
+17/02/26, 18:07 , Dineshkumar, Individual house idhu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-17 18:07:00,False
+17/02/26, 18:08 , Jayabharathi, Aana 15k ku ponmeni la nalla iruku,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-17 18:08:00,False
+17/02/26, 18:19 , Jayabharathi, 2 BHK Apartment  ₹ 20.0k/Month. Check out this beautiful property which I have found on Housing App https://dzfki.app.link/QbfSynVEP0b,"{'neg': 0.0, 'neu': 0.752, 'pos': 0.248, 'compound': 0.6833}",0.248,0.0,0.6833,0.752,positive,2026-02-17 18:19:00,True
+20/02/26, 23:12 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-20 23:12:00,False
+20/02/26, 23:16 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-20 23:16:00,False
+20/02/26, 23:17 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-20 23:17:00,False
+20/02/26, 23:22 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-20 23:22:00,False
+20/02/26, 23:29 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-20 23:29:00,False
+20/02/26, 23:30 , Jayabharathi, Amma marriage ku poturukanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-20 23:30:00,False
+20/02/26, 23:32 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-02-20 23:32:00,False
+23/02/26, 07:08 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 07:08:00,False
+23/02/26, 07:49 , Dineshkumar, https://youtube.com/shorts/MpYLsncRF_g?si=qZWpxWND0I0pnUhh,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 07:49:00,False
+23/02/26, 09:32 , Jayabharathi, Ticket potingala,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 09:32:00,False
+23/02/26, 09:36 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 09:36:00,False
+23/02/26, 09:37 , Jayabharathi, 👍🏻,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 09:37:00,False
+23/02/26, 14:42 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 14:42:00,False
+23/02/26, 15:00 , Jayabharathi, Solinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 15:00:00,False
+23/02/26, 15:00 , Jayabharathi, Solunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-23 15:00:00,False
+02/03/26, 22:10 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-02-03 22:10:00,False
+02/03/26, 22:15 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-02-03 22:15:00,False
+03/03/26, 12:51 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:51:00,False
+03/03/26, 12:51 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:51:00,False
+03/03/26, 12:51 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:51:00,False
+03/03/26, 12:51 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:51:00,False
+03/03/26, 12:51 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:51:00,False
+03/03/26, 12:54 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:54:00,False
+03/03/26, 12:57 , Jayabharathi, Veetu full video send panna solunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:57:00,False
+03/03/26, 12:57 , Dineshkumar, Geneva ta solliruke,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 12:57:00,False
+03/03/26, 12:58 , Jayabharathi, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2026-03-03 12:58:00,False
+03/03/26, 13:37 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-03 13:37:00,False
+03/03/26, 13:37 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 13:37:00,False
+03/03/26, 13:37 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 13:37:00,False
+03/03/26, 13:37 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 13:37:00,False
+03/03/26, 13:37 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 13:37:00,False
+03/03/26, 14:14 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-03 14:14:00,False
+03/03/26, 14:14 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 14:14:00,False
+03/03/26, 14:14 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 14:14:00,False
+03/03/26, 14:14 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 14:14:00,False
+03/03/26, 14:32 , Jayabharathi, https://www.instagram.com/reel/DGk7t_FJ3xM/?igsh=MWMwdDhuNGdqb2tydw==,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-03 14:32:00,False
+03/03/26, 15:28 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-03 15:28:00,False
+03/03/26, 15:29 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-03 15:29:00,False
+03/03/26, 22:47 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-03 22:47:00,False
+04/03/26, 15:46 , Jayabharathi, jayabharathigraj@gmail.com,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-03 15:46:00,False
+04/03/26, 20:33 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-03 20:33:00,False
+04/03/26, 20:33 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-03 20:33:00,False
+05/03/26, 08:26 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-05-03 08:26:00,False
+05/03/26, 10:00 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-05-03 10:00:00,False
+05/03/26, 10:00 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-05-03 10:00:00,False
+05/03/26, 10:00 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-05-03 10:00:00,False
+05/03/26, 21:49 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-05-03 21:49:00,False
+05/03/26, 21:53 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-05-03 21:53:00,False
+06/03/26, 11:16 , Jayabharathi, [ ] 100 thuvaram paruppu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:16:00,False
+06/03/26, 11:17 , Jayabharathi, Dp la nenga mattum dhan alaga ah irukinga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:17:00,False
+06/03/26, 11:17 , Jayabharathi, Change it,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:17:00,False
+06/03/26, 11:18 , Dineshkumar, My dp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:18:00,False
+06/03/26, 11:19 , Jayabharathi, Your dp is my dp ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:19:00,False
+06/03/26, 11:20 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:20:00,False
+06/03/26, 11:20 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:20:00,False
+06/03/26, 11:20 , Dineshkumar, Set this as ur dp,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:20:00,False
+06/03/26, 11:22 , Jayabharathi, Enaku dp vaika pudikathu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:22:00,False
+06/03/26, 11:28 , Dineshkumar, Don't influence me,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:28:00,False
+06/03/26, 11:35 , Dineshkumar, Hey,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:35:00,False
+06/03/26, 11:35 , Dineshkumar, Buy 1 or 2 ITC,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 11:35:00,False
+06/03/26, 11:36 , Jayabharathi, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2026-06-03 11:36:00,False
+06/03/26, 12:51 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 12:51:00,False
+06/03/26, 14:35 , Dineshkumar, Buy icici,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 14:35:00,False
+06/03/26, 14:59 , Jayabharathi, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2026-06-03 14:59:00,False
+06/03/26, 15:00 , Jayabharathi, 1358 varuthu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-03 15:00:00,False
+06/03/26, 15:00 , Jayabharathi, Okay ah,"{'neg': 0.0, 'neu': 0.345, 'pos': 0.655, 'compound': 0.2263}",0.655,0.0,0.2263,0.345,positive,2026-06-03 15:00:00,False
+07/03/26, 09:37 , Dineshkumar, location: https://maps.google.com/?q=9.920971178.11172,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-07-03 09:37:00,False
+07/03/26, 21:14 , Jayabharathi, Meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-07-03 21:14:00,False
+07/03/26, 21:15 , Jayabharathi, 5mins,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-07-03 21:15:00,False
+07/03/26, 21:15 , Jayabharathi, Plz,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.0772}",1.0,0.0,0.0772,0.0,positive,2026-07-03 21:15:00,False
+08/03/26, 14:15 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-08-03 14:15:00,False
+08/03/26, 14:16 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-08-03 14:16:00,False
+08/03/26, 14:18 , Jayabharathi, Na iruka va,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-08-03 14:18:00,False
+08/03/26, 17:58 , Jayabharathi, Worst journey,"{'neg': 0.804, 'neu': 0.196, 'pos': 0.0, 'compound': -0.6249}",0.0,0.804,-0.6249,0.196,negative,2026-08-03 17:58:00,False
+09/03/26, 22:46 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-09-03 22:46:00,False
+09/03/26, 22:49 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-09-03 22:49:00,False
+10/03/26, 06:22 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-03 06:22:00,False
+10/03/26, 06:23 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-03 06:23:00,False
+10/03/26, 06:27 , Jayabharathi, You deleted this message,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-03 06:27:00,False
+10/03/26, 06:31 , Jayabharathi, Dear Husband,"{'neg': 0.0, 'neu': 0.278, 'pos': 0.722, 'compound': 0.3818}",0.722,0.0,0.3818,0.278,positive,2026-10-03 06:31:00,True
+10/03/26, 06:59 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-03 06:59:00,False
+10/03/26, 07:01 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-03 07:01:00,False
+10/03/26, 09:27 , Dineshkumar, https://youtube.com/shorts/3eoRUISOdp0?si=3k1AbwyPPU5Qiwb9,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-10-03 09:27:00,False
+10/03/26, 21:47 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-10-03 21:47:00,False
+10/03/26, 21:48 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-10-03 21:48:00,False
+11/03/26, 07:16 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-11-03 07:16:00,False
+13/03/26, 09:56 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-13 09:56:00,False
+13/03/26, 10:01 , Dineshkumar, Top la irukradhu,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.2023}",0.474,0.0,0.2023,0.526,positive,2026-03-13 10:01:00,False
+13/03/26, 10:01 , Jayabharathi, Meeting,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-13 10:01:00,False
+13/03/26, 10:11 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-13 10:11:00,False
+13/03/26, 19:22 , Jayabharathi, kela vanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-13 19:22:00,False
+13/03/26, 19:22 , Jayabharathi, ponnu matter pesanum,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.0258}",0.355,0.0,0.0258,0.645,positive,2026-03-13 19:22:00,False
+14/03/26, 00:28 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-14 00:28:00,False
+14/03/26, 11:49 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-14 11:49:00,False
+17/03/26, 22:29 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-17 22:29:00,False
+18/03/26, 19:41 , Dineshkumar, Send live location,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:41:00,False
+18/03/26, 19:44 , Jayabharathi, I know where I can step out,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:44:00,False
+18/03/26, 19:45 , Dineshkumar, Chill baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:45:00,True
+18/03/26, 19:45 , Jayabharathi, Shut and go,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:45:00,False
+18/03/26, 19:45 , Dineshkumar, Please send,"{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}",0.697,0.0,0.3182,0.303,positive,2026-03-18 19:45:00,False
+18/03/26, 19:45 , Dineshkumar, Don't mistaken me,"{'neg': 0.0, 'neu': 0.487, 'pos': 0.513, 'compound': 0.2755}",0.513,0.0,0.2755,0.487,positive,2026-03-18 19:45:00,False
+18/03/26, 19:46 , Dineshkumar, I just said it normally,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:46:00,False
+18/03/26, 19:46 , Jayabharathi, I also said normally,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:46:00,False
+18/03/26, 19:46 , Dineshkumar, U take it as serious,"{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.0772}",0.0,0.302,-0.0772,0.698,negative,2026-03-18 19:46:00,False
+18/03/26, 19:46 , Dineshkumar, Eagerly waiting for you,"{'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.3818}",0.464,0.0,0.3818,0.536,positive,2026-03-18 19:46:00,False
+18/03/26, 19:46 , Jayabharathi, I am not old jayabharathi,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:46:00,False
+18/03/26, 19:47 , Jayabharathi, I am a new version 2.o,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:47:00,False
+18/03/26, 19:51 , Dineshkumar, Ok 2.0 send live location,"{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}",0.355,0.0,0.296,0.645,positive,2026-03-18 19:51:00,False
+18/03/26, 19:55 , Dineshkumar, So send live location,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-18 19:55:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:53 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:53:00,False
+19/03/26, 19:54 , Jayabharathi, Done super,"{'neg': 0.0, 'neu': 0.204, 'pos': 0.796, 'compound': 0.5994}",0.796,0.0,0.5994,0.204,positive,2026-03-19 19:54:00,False
+19/03/26, 19:54 , Jayabharathi, Tap mattum leak aachu,"{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.34}",0.0,0.444,-0.34,0.556,negative,2026-03-19 19:54:00,False
+19/03/26, 19:54 , Jayabharathi, Atha kelunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-19 19:54:00,False
+19/03/26, 19:54 , Dineshkumar, Ok,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.296}",1.0,0.0,0.296,0.0,positive,2026-03-19 19:54:00,False
+22/03/26, 22:15 , Jayabharathi, Meesho.vcf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-22 22:15:00,False
+23/03/26, 06:50 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-23 06:50:00,False
+25/03/26, 06:26 , Dineshkumar, Baby,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-25 06:26:00,True
+25/03/26, 07:33 , Jayabharathi, Solunga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-25 07:33:00,False
+26/03/26, 22:04 , Jayabharathi, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-03-26 22:04:00,False
+28/03/26, 21:04 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-28 21:04:00,False
+28/03/26, 21:04 , Jayabharathi, Ithu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-03-28 21:04:00,False
+02/04/26, 18:02 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-02-04 18:02:00,False
+02/04/26, 18:02 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-04 18:02:00,False
+02/04/26, 18:02 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-04 18:02:00,False
+02/04/26, 18:03 , Jayabharathi, Venam alukku theriyum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-04 18:03:00,False
+02/04/26, 18:03 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-04 18:03:00,False
+02/04/26, 18:03 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-02-04 18:03:00,False
+04/04/26, 12:31 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-04 12:31:00,False
+04/04/26, 12:40 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-04 12:40:00,False
+04/04/26, 23:30 , Dineshkumar, Hey check out this product on Meesho! ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-04 23:30:00,False
+06/04/26, 19:08 , Jayabharathi, Pineapple vangitu vanga,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-06-04 19:08:00,False
+13/04/26, 12:26 , Dineshkumar, Sugumaran Porkudam Apartment.vcf (file attached),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-13 12:26:00,False
+14/04/26, 12:48 , Dineshkumar, Ekart Update: LOTUS Herbals White Glow Da... with OTP 460057  will be delivered by 11pm today.  Track: http://fkrt.it/EKARTL/sIEb4EuuuN,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-14 12:48:00,True
+15/04/26, 12:09 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-15 12:09:00,False
+15/04/26, 12:09 , Jayabharathi, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-15 12:09:00,False
+16/04/26, 11:48 , Dineshkumar, Multi Kadai 13-1670,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-16 11:48:00,False
+16/04/26, 11:48 , Dineshkumar, ,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,0.0,positive,2026-04-16 11:48:00,False
+16/04/26, 11:48 , Dineshkumar, Trois-1764,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-16 11:48:00,False
+16/04/26, 11:48 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-16 11:48:00,False
+16/04/26, 11:48 , Dineshkumar, <Media omitted>,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,0.0,0.0,1.0,positive,2026-04-16 11:48:00,False
+16/04/26, 11:49 , Jayabharathi, Okay,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}",1.0,0.0,0.2263,0.0,positive,2026-04-16 11:49:00,False
